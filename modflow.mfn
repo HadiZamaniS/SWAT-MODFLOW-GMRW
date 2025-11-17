@@ -1,0 +1,19 @@
+# MODFLOW-NWT name file            
+# Output Files                     
+LIST            5007    modflow_GMRW.out
+DATA            5030    modflow_GMRW.hed
+DATA(BINARY)    5040    modflow_GMRW.ccf
+# Global Input Files               
+DIS             5010    modflow_GMRW.dis
+# Flow Process Input Files         
+BAS6            5001    modflow_GMRW.bas
+UPW             5011    modflow_GMRW.upw
+RCH             5018    modflow_GMRW.rch
+RIV             5008    modflow_GMRW.riv
+NWT             5013    modflow_GMRW.nwt
+OC              5022    modflow_GMRW.oc 
+LMT6            5019    modflow_GMRW.lmt
+EVT             5020    modflow_GMRW.evt
+DRN             5021    modflow_GMRW.drn
+WEL             5023    modflow_GMRW.wel  
+               

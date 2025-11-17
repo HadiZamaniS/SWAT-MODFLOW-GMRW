@@ -1,0 +1,723 @@
+1
+    SWAT Mar 17 2015    VER 2012/Rev 636_smrt                                                            0/ 0/   0      0: 0: 0
+
+    General Input/Output section (file.cio):                                        
+    3/18/2025 12:00:00 AM ARCGIS-SWAT interface AV                                  
+                                                                                    
+         Number of years in run:   23
+         Area of watershed:     9911.344 km2
+1
+    SWAT Mar 17 2015    VER 2012/Rev 636_smrt                                       
+
+    General Input/Output section (file.cio):                                        
+    3/18/2025 12:00:00 AM ARCGIS-SWAT interface AV                                  
+                                                                                    
+Annual Summary for Watershed in year    1 of simulation
+
+UNIT                                             PERCO           TILE                                                                            WATER   SED     NO3     NO3     NO3     NO3     NO3     NO3     N       P       P       P       P       P       NO3     P
+TIME     PREC    SURQ    LATQ    GWQ     SWGW    LATE    RECH    Q           DRN       SW            GW      GWSTOR  GWCON   GWET    ET      PET     YIELD   YIELD   SURQ    LATQ    GWQ     SWGW    PERC    CROP    ORGANIC SOLUBLE ORGANIC TILENO3 GWQ     SWGW    DRN     DRN
+         (mm)    (mm)    (mm)    (mm)    (mm)    (mm)    (mm)    (mm)        (mm)      (mm)          (mm)    mm      mm      mm      (mm)    (mm)    (mm)    (mm)    ---------------------(kg nutrient/ha)--------------------------         ------------------------
+1
+    SWAT Mar 17 2015    VER 2012/Rev 636_smrt                                       
+
+    General Input/Output section (file.cio):                                        
+    3/18/2025 12:00:00 AM ARCGIS-SWAT interface AV                                  
+                                                                                    
+Annual Summary for Watershed in year    2 of simulation
+
+UNIT                                             PERCO           TILE                                                                            WATER   SED     NO3     NO3     NO3     NO3     NO3     NO3     N       P       P       P       P       P       NO3     P
+TIME     PREC    SURQ    LATQ    GWQ     SWGW    LATE    RECH    Q           DRN       SW            GW      GWSTOR  GWCON   GWET    ET      PET     YIELD   YIELD   SURQ    LATQ    GWQ     SWGW    PERC    CROP    ORGANIC SOLUBLE ORGANIC TILENO3 GWQ     SWGW    DRN     DRN
+         (mm)    (mm)    (mm)    (mm)    (mm)    (mm)    (mm)    (mm)        (mm)      (mm)          (mm)    mm      mm      mm      (mm)    (mm)    (mm)    (mm)    ---------------------(kg nutrient/ha)--------------------------         ------------------------
+1
+    SWAT Mar 17 2015    VER 2012/Rev 636_smrt                                       
+
+    General Input/Output section (file.cio):                                        
+    3/18/2025 12:00:00 AM ARCGIS-SWAT interface AV                                  
+                                                                                    
+Annual Summary for Watershed in year    3 of simulation
+
+UNIT                                             PERCO           TILE                                                                            WATER   SED     NO3     NO3     NO3     NO3     NO3     NO3     N       P       P       P       P       P       NO3     P
+TIME     PREC    SURQ    LATQ    GWQ     SWGW    LATE    RECH    Q           DRN       SW            GW      GWSTOR  GWCON   GWET    ET      PET     YIELD   YIELD   SURQ    LATQ    GWQ     SWGW    PERC    CROP    ORGANIC SOLUBLE ORGANIC TILENO3 GWQ     SWGW    DRN     DRN
+         (mm)    (mm)    (mm)    (mm)    (mm)    (mm)    (mm)    (mm)        (mm)      (mm)          (mm)    mm      mm      mm      (mm)    (mm)    (mm)    (mm)    ---------------------(kg nutrient/ha)--------------------------         ------------------------
+ 2003 1301.31  226.14  205.85  552.62   62.75   50.92   48.31    0.00        1.98      174.62     6182.96 -239.76    0.00   10.19  746.31  985.50  924.07   19.98    2.07    1.57    0.00    0.00    0.56   86.38    3.83    0.03    0.60    0.00    0.00    0.00    0.00    0.00
+1
+    SWAT Mar 17 2015    VER 2012/Rev 636_smrt                                       
+
+    General Input/Output section (file.cio):                                        
+    3/18/2025 12:00:00 AM ARCGIS-SWAT interface AV                                  
+                                                                                    
+Annual Summary for Watershed in year    4 of simulation
+
+UNIT                                             PERCO           TILE                                                                            WATER   SED     NO3     NO3     NO3     NO3     NO3     NO3     N       P       P       P       P       P       NO3     P
+TIME     PREC    SURQ    LATQ    GWQ     SWGW    LATE    RECH    Q           DRN       SW            GW      GWSTOR  GWCON   GWET    ET      PET     YIELD   YIELD   SURQ    LATQ    GWQ     SWGW    PERC    CROP    ORGANIC SOLUBLE ORGANIC TILENO3 GWQ     SWGW    DRN     DRN
+         (mm)    (mm)    (mm)    (mm)    (mm)    (mm)    (mm)    (mm)        (mm)      (mm)          (mm)    mm      mm      mm      (mm)    (mm)    (mm)    (mm)    ---------------------(kg nutrient/ha)--------------------------         ------------------------
+ 2004 1128.88  176.07  210.35  500.63   70.83   49.81   52.39    0.00        1.49      124.77     6221.78 -169.27    0.00   10.86  744.46  999.86  813.58   13.06    3.40    2.07    0.00    0.00    1.01   85.98    2.57    0.04    0.47    0.00    0.00    0.00    0.00    0.00
+1
+    SWAT Mar 17 2015    VER 2012/Rev 636_smrt                                       
+
+    General Input/Output section (file.cio):                                        
+    3/18/2025 12:00:00 AM ARCGIS-SWAT interface AV                                  
+                                                                                    
+Annual Summary for Watershed in year    5 of simulation
+
+UNIT                                             PERCO           TILE                                                                            WATER   SED     NO3     NO3     NO3     NO3     NO3     NO3     N       P       P       P       P       P       NO3     P
+TIME     PREC    SURQ    LATQ    GWQ     SWGW    LATE    RECH    Q           DRN       SW            GW      GWSTOR  GWCON   GWET    ET      PET     YIELD   YIELD   SURQ    LATQ    GWQ     SWGW    PERC    CROP    ORGANIC SOLUBLE ORGANIC TILENO3 GWQ     SWGW    DRN     DRN
+         (mm)    (mm)    (mm)    (mm)    (mm)    (mm)    (mm)    (mm)        (mm)      (mm)          (mm)    mm      mm      mm      (mm)    (mm)    (mm)    (mm)    ---------------------(kg nutrient/ha)--------------------------         ------------------------
+ 2005 1157.96  221.12  204.14  461.57   84.81   48.30   48.32    0.00        1.18      117.56     6196.35 -112.90    0.00   12.73  707.81 1028.85  807.87   24.51    1.39    1.49    0.00    0.00    0.93   90.71    3.38    0.05    0.64    0.00    0.00    0.00    0.00    0.00
+1
+    SWAT Mar 17 2015    VER 2012/Rev 636_smrt                                       
+
+    General Input/Output section (file.cio):                                        
+    3/18/2025 12:00:00 AM ARCGIS-SWAT interface AV                                  
+                                                                                    
+Annual Summary for Watershed in year    6 of simulation
+
+UNIT                                             PERCO           TILE                                                                            WATER   SED     NO3     NO3     NO3     NO3     NO3     NO3     N       P       P       P       P       P       NO3     P
+TIME     PREC    SURQ    LATQ    GWQ     SWGW    LATE    RECH    Q           DRN       SW            GW      GWSTOR  GWCON   GWET    ET      PET     YIELD   YIELD   SURQ    LATQ    GWQ     SWGW    PERC    CROP    ORGANIC SOLUBLE ORGANIC TILENO3 GWQ     SWGW    DRN     DRN
+         (mm)    (mm)    (mm)    (mm)    (mm)    (mm)    (mm)    (mm)        (mm)      (mm)          (mm)    mm      mm      mm      (mm)    (mm)    (mm)    (mm)    ---------------------(kg nutrient/ha)--------------------------         ------------------------
+ 2006 1225.71  162.90  200.04  436.93   84.49   28.69   26.94    0.00        0.98      161.54     6164.21  -80.62    0.00    8.98  772.42 1012.29  712.64   11.35    2.08    2.02    0.00    0.00    0.84   95.40    2.31    0.05    0.46    0.00    0.00    0.00    0.00    0.00
+1
+    SWAT Mar 17 2015    VER 2012/Rev 636_smrt                                       
+
+    General Input/Output section (file.cio):                                        
+    3/18/2025 12:00:00 AM ARCGIS-SWAT interface AV                                  
+                                                                                    
+Annual Summary for Watershed in year    7 of simulation
+
+UNIT                                             PERCO           TILE                                                                            WATER   SED     NO3     NO3     NO3     NO3     NO3     NO3     N       P       P       P       P       P       NO3     P
+TIME     PREC    SURQ    LATQ    GWQ     SWGW    LATE    RECH    Q           DRN       SW            GW      GWSTOR  GWCON   GWET    ET      PET     YIELD   YIELD   SURQ    LATQ    GWQ     SWGW    PERC    CROP    ORGANIC SOLUBLE ORGANIC TILENO3 GWQ     SWGW    DRN     DRN
+         (mm)    (mm)    (mm)    (mm)    (mm)    (mm)    (mm)    (mm)        (mm)      (mm)          (mm)    mm      mm      mm      (mm)    (mm)    (mm)    (mm)    ---------------------(kg nutrient/ha)--------------------------         ------------------------
+ 2007 1171.41  244.98  210.85  426.87   97.35   57.69   59.61    0.00        0.85      127.76     6142.73  -61.47    0.00   14.51  690.90 1108.58  792.16   34.93    1.41    1.52    0.00    0.00    1.08   99.51    4.07    0.05    0.74    0.00    0.00    0.00    0.00    0.00
+1
+    SWAT Mar 17 2015    VER 2012/Rev 636_smrt                                       
+
+    General Input/Output section (file.cio):                                        
+    3/18/2025 12:00:00 AM ARCGIS-SWAT interface AV                                  
+                                                                                    
+Annual Summary for Watershed in year    8 of simulation
+
+UNIT                                             PERCO           TILE                                                                            WATER   SED     NO3     NO3     NO3     NO3     NO3     NO3     N       P       P       P       P       P       NO3     P
+TIME     PREC    SURQ    LATQ    GWQ     SWGW    LATE    RECH    Q           DRN       SW            GW      GWSTOR  GWCON   GWET    ET      PET     YIELD   YIELD   SURQ    LATQ    GWQ     SWGW    PERC    CROP    ORGANIC SOLUBLE ORGANIC TILENO3 GWQ     SWGW    DRN     DRN
+         (mm)    (mm)    (mm)    (mm)    (mm)    (mm)    (mm)    (mm)        (mm)      (mm)          (mm)    mm      mm      mm      (mm)    (mm)    (mm)    (mm)    ---------------------(kg nutrient/ha)--------------------------         ------------------------
+ 2008 1242.22  315.98  230.60  424.20  105.99   64.98   64.86    0.00        0.78       98.90     6119.79  -44.99    0.00   11.28  684.16 1036.25  865.38   68.23    2.67    2.07    0.00    0.00    2.11  103.60    5.74    0.09    1.33    0.00    0.00    0.00    0.00    0.00
+1
+    SWAT Mar 17 2015    VER 2012/Rev 636_smrt                                       
+
+    General Input/Output section (file.cio):                                        
+    3/18/2025 12:00:00 AM ARCGIS-SWAT interface AV                                  
+                                                                                    
+Annual Summary for Watershed in year    9 of simulation
+
+UNIT                                             PERCO           TILE                                                                            WATER   SED     NO3     NO3     NO3     NO3     NO3     NO3     N       P       P       P       P       P       NO3     P
+TIME     PREC    SURQ    LATQ    GWQ     SWGW    LATE    RECH    Q           DRN       SW            GW      GWSTOR  GWCON   GWET    ET      PET     YIELD   YIELD   SURQ    LATQ    GWQ     SWGW    PERC    CROP    ORGANIC SOLUBLE ORGANIC TILENO3 GWQ     SWGW    DRN     DRN
+         (mm)    (mm)    (mm)    (mm)    (mm)    (mm)    (mm)    (mm)        (mm)      (mm)          (mm)    mm      mm      mm      (mm)    (mm)    (mm)    (mm)    ---------------------(kg nutrient/ha)--------------------------         ------------------------
+ 2009 1017.62  117.53  149.79  418.98   88.05   10.10   10.18    0.00        0.71       85.51     6114.78  -51.58    0.00    7.88  742.08 1012.26  600.50    9.96    2.85    2.03    0.00    0.00    0.30  113.87    1.76    0.10    0.69    0.00    0.00    0.00    0.00    0.00
+1
+    SWAT Mar 17 2015    VER 2012/Rev 636_smrt                                       
+
+    General Input/Output section (file.cio):                                        
+    3/18/2025 12:00:00 AM ARCGIS-SWAT interface AV                                  
+                                                                                    
+Annual Summary for Watershed in year   10 of simulation
+
+UNIT                                             PERCO           TILE                                                                            WATER   SED     NO3     NO3     NO3     NO3     NO3     NO3     N       P       P       P       P       P       NO3     P
+TIME     PREC    SURQ    LATQ    GWQ     SWGW    LATE    RECH    Q           DRN       SW            GW      GWSTOR  GWCON   GWET    ET      PET     YIELD   YIELD   SURQ    LATQ    GWQ     SWGW    PERC    CROP    ORGANIC SOLUBLE ORGANIC TILENO3 GWQ     SWGW    DRN     DRN
+         (mm)    (mm)    (mm)    (mm)    (mm)    (mm)    (mm)    (mm)        (mm)      (mm)          (mm)    mm      mm      mm      (mm)    (mm)    (mm)    (mm)    ---------------------(kg nutrient/ha)--------------------------         ------------------------
+ 2010  975.61  126.20  147.24  407.26   92.30   11.17   10.46    0.00        0.66       99.57     6126.28  -36.03    0.00   10.87  692.94 1078.10  586.35   12.73    4.59    3.50    0.00    0.00    0.38  160.43    2.49    0.06    0.56    0.00    0.00    0.00    0.00    0.00
+1
+    SWAT Mar 17 2015    VER 2012/Rev 636_smrt                                       
+
+    General Input/Output section (file.cio):                                        
+    3/18/2025 12:00:00 AM ARCGIS-SWAT interface AV                                  
+                                                                                    
+Annual Summary for Watershed in year   11 of simulation
+
+UNIT                                             PERCO           TILE                                                                            WATER   SED     NO3     NO3     NO3     NO3     NO3     NO3     N       P       P       P       P       P       NO3     P
+TIME     PREC    SURQ    LATQ    GWQ     SWGW    LATE    RECH    Q           DRN       SW            GW      GWSTOR  GWCON   GWET    ET      PET     YIELD   YIELD   SURQ    LATQ    GWQ     SWGW    PERC    CROP    ORGANIC SOLUBLE ORGANIC TILENO3 GWQ     SWGW    DRN     DRN
+         (mm)    (mm)    (mm)    (mm)    (mm)    (mm)    (mm)    (mm)        (mm)      (mm)          (mm)    mm      mm      mm      (mm)    (mm)    (mm)    (mm)    ---------------------(kg nutrient/ha)--------------------------         ------------------------
+ 2011 1545.63  334.38  247.33  393.29  117.81   63.61   64.01    0.00        0.63      166.54     6035.76    3.79    0.00    8.36  770.09 1043.77  863.69   56.04    4.26    4.42    0.00    0.00    4.91  162.57    5.66    0.18    1.34    0.00    0.00    0.00    0.00    0.00
+1
+    SWAT Mar 17 2015    VER 2012/Rev 636_smrt                                       
+
+    General Input/Output section (file.cio):                                        
+    3/18/2025 12:00:00 AM ARCGIS-SWAT interface AV                                  
+                                                                                    
+Annual Summary for Watershed in year   12 of simulation
+
+UNIT                                             PERCO           TILE                                                                            WATER   SED     NO3     NO3     NO3     NO3     NO3     NO3     N       P       P       P       P       P       NO3     P
+TIME     PREC    SURQ    LATQ    GWQ     SWGW    LATE    RECH    Q           DRN       SW            GW      GWSTOR  GWCON   GWET    ET      PET     YIELD   YIELD   SURQ    LATQ    GWQ     SWGW    PERC    CROP    ORGANIC SOLUBLE ORGANIC TILENO3 GWQ     SWGW    DRN     DRN
+         (mm)    (mm)    (mm)    (mm)    (mm)    (mm)    (mm)    (mm)        (mm)      (mm)          (mm)    mm      mm      mm      (mm)    (mm)    (mm)    (mm)    ---------------------(kg nutrient/ha)--------------------------         ------------------------
+ 2012  918.36  129.64  195.79  414.35   94.13   24.74   25.11    0.00        0.60       82.52     6099.76  -43.85    0.00   12.23  703.07 1142.47  647.43   13.40    3.67    3.02    0.00    0.00    0.95  161.28    2.42    0.06    0.50    0.00    0.00    0.00    0.00    0.00
+1
+    SWAT Mar 17 2015    VER 2012/Rev 636_smrt                                       
+
+    General Input/Output section (file.cio):                                        
+    3/18/2025 12:00:00 AM ARCGIS-SWAT interface AV                                  
+                                                                                    
+Annual Summary for Watershed in year   13 of simulation
+
+UNIT                                             PERCO           TILE                                                                            WATER   SED     NO3     NO3     NO3     NO3     NO3     NO3     N       P       P       P       P       P       NO3     P
+TIME     PREC    SURQ    LATQ    GWQ     SWGW    LATE    RECH    Q           DRN       SW            GW      GWSTOR  GWCON   GWET    ET      PET     YIELD   YIELD   SURQ    LATQ    GWQ     SWGW    PERC    CROP    ORGANIC SOLUBLE ORGANIC TILENO3 GWQ     SWGW    DRN     DRN
+         (mm)    (mm)    (mm)    (mm)    (mm)    (mm)    (mm)    (mm)        (mm)      (mm)          (mm)    mm      mm      mm      (mm)    (mm)    (mm)    (mm)    ---------------------(kg nutrient/ha)--------------------------         ------------------------
+ 2013 1083.85  133.10  147.40  397.31   96.17   12.39   12.35    0.00        0.57      120.62     6058.75  -17.45    0.00    7.77  758.71 1017.78  582.17   17.47    3.04    2.88    0.00    0.00    0.39  161.87    3.74    0.04    0.76    0.00    0.00    0.00    0.00    0.00
+1
+    SWAT Mar 17 2015    VER 2012/Rev 636_smrt                                       
+
+    General Input/Output section (file.cio):                                        
+    3/18/2025 12:00:00 AM ARCGIS-SWAT interface AV                                  
+                                                                                    
+Annual Summary for Watershed in year   14 of simulation
+
+UNIT                                             PERCO           TILE                                                                            WATER   SED     NO3     NO3     NO3     NO3     NO3     NO3     N       P       P       P       P       P       NO3     P
+TIME     PREC    SURQ    LATQ    GWQ     SWGW    LATE    RECH    Q           DRN       SW            GW      GWSTOR  GWCON   GWET    ET      PET     YIELD   YIELD   SURQ    LATQ    GWQ     SWGW    PERC    CROP    ORGANIC SOLUBLE ORGANIC TILENO3 GWQ     SWGW    DRN     DRN
+         (mm)    (mm)    (mm)    (mm)    (mm)    (mm)    (mm)    (mm)        (mm)      (mm)          (mm)    mm      mm      mm      (mm)    (mm)    (mm)    (mm)    ---------------------(kg nutrient/ha)--------------------------         ------------------------
+ 2014 1049.26  184.39  156.72  400.29  101.24   19.90   19.94    0.00        0.56       81.30     6074.72  -17.25    0.00    8.06  746.65 1013.06  641.80   34.68    4.30    3.19    0.00    0.00    0.76  164.82    3.29    0.08    0.68    0.00    0.00    0.00    0.00    0.00
+1
+    SWAT Mar 17 2015    VER 2012/Rev 636_smrt                                       
+
+    General Input/Output section (file.cio):                                        
+    3/18/2025 12:00:00 AM ARCGIS-SWAT interface AV                                  
+                                                                                    
+Annual Summary for Watershed in year   15 of simulation
+
+UNIT                                             PERCO           TILE                                                                            WATER   SED     NO3     NO3     NO3     NO3     NO3     NO3     N       P       P       P       P       P       NO3     P
+TIME     PREC    SURQ    LATQ    GWQ     SWGW    LATE    RECH    Q           DRN       SW            GW      GWSTOR  GWCON   GWET    ET      PET     YIELD   YIELD   SURQ    LATQ    GWQ     SWGW    PERC    CROP    ORGANIC SOLUBLE ORGANIC TILENO3 GWQ     SWGW    DRN     DRN
+         (mm)    (mm)    (mm)    (mm)    (mm)    (mm)    (mm)    (mm)        (mm)      (mm)          (mm)    mm      mm      mm      (mm)    (mm)    (mm)    (mm)    ---------------------(kg nutrient/ha)--------------------------         ------------------------
+ 2015 1212.83  185.92  157.98  393.33  103.05   21.71   21.41    0.00        0.54      117.69     6027.53   -7.30    0.00    8.35  774.37 1041.43  632.93   31.04    4.40    4.23    0.00    0.00    1.39  166.66    3.17    0.06    0.67    0.00    0.00    0.00    0.00    0.00
+1
+    SWAT Mar 17 2015    VER 2012/Rev 636_smrt                                       
+
+    General Input/Output section (file.cio):                                        
+    3/18/2025 12:00:00 AM ARCGIS-SWAT interface AV                                  
+                                                                                    
+Annual Summary for Watershed in year   16 of simulation
+
+UNIT                                             PERCO           TILE                                                                            WATER   SED     NO3     NO3     NO3     NO3     NO3     NO3     N       P       P       P       P       P       NO3     P
+TIME     PREC    SURQ    LATQ    GWQ     SWGW    LATE    RECH    Q           DRN       SW            GW      GWSTOR  GWCON   GWET    ET      PET     YIELD   YIELD   SURQ    LATQ    GWQ     SWGW    PERC    CROP    ORGANIC SOLUBLE ORGANIC TILENO3 GWQ     SWGW    DRN     DRN
+         (mm)    (mm)    (mm)    (mm)    (mm)    (mm)    (mm)    (mm)        (mm)      (mm)          (mm)    mm      mm      mm      (mm)    (mm)    (mm)    (mm)    ---------------------(kg nutrient/ha)--------------------------         ------------------------
+ 2016 1043.77  150.25  186.03  397.66  100.28   21.67   21.87    0.00        0.53       81.10     6062.96  -15.61    0.00    9.30  753.64 1076.98  637.49   17.30    4.03    4.31    0.00    0.00    2.38  168.69    3.09    0.09    0.68    0.00    0.00    0.00    0.00    0.00
+1
+    SWAT Mar 17 2015    VER 2012/Rev 636_smrt                                       
+
+    General Input/Output section (file.cio):                                        
+    3/18/2025 12:00:00 AM ARCGIS-SWAT interface AV                                  
+                                                                                    
+Annual Summary for Watershed in year   17 of simulation
+
+UNIT                                             PERCO           TILE                                                                            WATER   SED     NO3     NO3     NO3     NO3     NO3     NO3     N       P       P       P       P       P       NO3     P
+TIME     PREC    SURQ    LATQ    GWQ     SWGW    LATE    RECH    Q           DRN       SW            GW      GWSTOR  GWCON   GWET    ET      PET     YIELD   YIELD   SURQ    LATQ    GWQ     SWGW    PERC    CROP    ORGANIC SOLUBLE ORGANIC TILENO3 GWQ     SWGW    DRN     DRN
+         (mm)    (mm)    (mm)    (mm)    (mm)    (mm)    (mm)    (mm)        (mm)      (mm)          (mm)    mm      mm      mm      (mm)    (mm)    (mm)    (mm)    ---------------------(kg nutrient/ha)--------------------------         ------------------------
+ 2017 1298.01  201.21  201.89  389.27  107.33   22.82   22.91    0.00        0.52      116.10     6026.82   -0.21    0.00    7.72  816.08 1066.28  687.05   28.75    3.94    3.95    0.00    0.00    2.15  168.24    4.60    0.10    0.96    0.00    0.00    0.00    0.00    0.00
+1
+    SWAT Mar 17 2015    VER 2012/Rev 636_smrt                                       
+
+    General Input/Output section (file.cio):                                        
+    3/18/2025 12:00:00 AM ARCGIS-SWAT interface AV                                  
+                                                                                    
+Annual Summary for Watershed in year   18 of simulation
+
+UNIT                                             PERCO           TILE                                                                            WATER   SED     NO3     NO3     NO3     NO3     NO3     NO3     N       P       P       P       P       P       NO3     P
+TIME     PREC    SURQ    LATQ    GWQ     SWGW    LATE    RECH    Q           DRN       SW            GW      GWSTOR  GWCON   GWET    ET      PET     YIELD   YIELD   SURQ    LATQ    GWQ     SWGW    PERC    CROP    ORGANIC SOLUBLE ORGANIC TILENO3 GWQ     SWGW    DRN     DRN
+         (mm)    (mm)    (mm)    (mm)    (mm)    (mm)    (mm)    (mm)        (mm)      (mm)          (mm)    mm      mm      mm      (mm)    (mm)    (mm)    (mm)    ---------------------(kg nutrient/ha)--------------------------         ------------------------
+ 2018 1346.02  241.10  219.23  392.18  109.79   60.44   57.08    0.00        0.51      170.83     6010.19    0.23    0.00    8.03  747.84 1028.91  738.84   39.77    4.45    4.45    0.00    0.00    4.09  173.53    4.76    0.14    1.12    0.00    0.00    0.00    0.00    0.00
+1
+    SWAT Mar 17 2015    VER 2012/Rev 636_smrt                                       
+
+    General Input/Output section (file.cio):                                        
+    3/18/2025 12:00:00 AM ARCGIS-SWAT interface AV                                  
+                                                                                    
+Annual Summary for Watershed in year   19 of simulation
+
+UNIT                                             PERCO           TILE                                                                            WATER   SED     NO3     NO3     NO3     NO3     NO3     NO3     N       P       P       P       P       P       NO3     P
+TIME     PREC    SURQ    LATQ    GWQ     SWGW    LATE    RECH    Q           DRN       SW            GW      GWSTOR  GWCON   GWET    ET      PET     YIELD   YIELD   SURQ    LATQ    GWQ     SWGW    PERC    CROP    ORGANIC SOLUBLE ORGANIC TILENO3 GWQ     SWGW    DRN     DRN
+         (mm)    (mm)    (mm)    (mm)    (mm)    (mm)    (mm)    (mm)        (mm)      (mm)          (mm)    mm      mm      mm      (mm)    (mm)    (mm)    (mm)    ---------------------(kg nutrient/ha)--------------------------         ------------------------
+ 2019 1179.51  255.98  224.03  399.08  110.08   66.79   69.87    0.00        0.51       79.60     6047.80   -9.47    0.00    9.84  762.40 1066.19  775.61   29.87    4.51    5.19    0.00    0.00    4.02  171.51    6.01    0.09    1.25    0.00    0.00    0.00    0.00    0.00
+1
+    SWAT Mar 17 2015    VER 2012/Rev 636_smrt                                       
+
+    General Input/Output section (file.cio):                                        
+    3/18/2025 12:00:00 AM ARCGIS-SWAT interface AV                                  
+                                                                                    
+Annual Summary for Watershed in year   20 of simulation
+
+UNIT                                             PERCO           TILE                                                                            WATER   SED     NO3     NO3     NO3     NO3     NO3     NO3     N       P       P       P       P       P       NO3     P
+TIME     PREC    SURQ    LATQ    GWQ     SWGW    LATE    RECH    Q           DRN       SW            GW      GWSTOR  GWCON   GWET    ET      PET     YIELD   YIELD   SURQ    LATQ    GWQ     SWGW    PERC    CROP    ORGANIC SOLUBLE ORGANIC TILENO3 GWQ     SWGW    DRN     DRN
+         (mm)    (mm)    (mm)    (mm)    (mm)    (mm)    (mm)    (mm)        (mm)      (mm)          (mm)    mm      mm      mm      (mm)    (mm)    (mm)    (mm)    ---------------------(kg nutrient/ha)--------------------------         ------------------------
+ 2020 1200.02  174.92  211.16  391.94  105.44   31.30   31.52    0.00        0.50      101.50     6035.62   -4.80    0.00    9.21  743.08 1067.54  677.29   14.46    2.25    5.16    0.00    0.00    6.17  178.74    3.45    0.16    0.94    0.00    0.00    0.00    0.00    0.00
+1
+    SWAT Mar 17 2015    VER 2012/Rev 636_smrt                                       
+
+    General Input/Output section (file.cio):                                        
+    3/18/2025 12:00:00 AM ARCGIS-SWAT interface AV                                  
+                                                                                    
+Annual Summary for Watershed in year   21 of simulation
+
+UNIT                                             PERCO           TILE                                                                            WATER   SED     NO3     NO3     NO3     NO3     NO3     NO3     N       P       P       P       P       P       NO3     P
+TIME     PREC    SURQ    LATQ    GWQ     SWGW    LATE    RECH    Q           DRN       SW            GW      GWSTOR  GWCON   GWET    ET      PET     YIELD   YIELD   SURQ    LATQ    GWQ     SWGW    PERC    CROP    ORGANIC SOLUBLE ORGANIC TILENO3 GWQ     SWGW    DRN     DRN
+         (mm)    (mm)    (mm)    (mm)    (mm)    (mm)    (mm)    (mm)        (mm)      (mm)          (mm)    mm      mm      mm      (mm)    (mm)    (mm)    (mm)    ---------------------(kg nutrient/ha)--------------------------         ------------------------
+ 2021 1167.08  156.45  170.37  390.12  101.27   14.63   14.20    0.00        0.49      149.22     6011.01   -5.55    0.00    8.36  771.89 1063.98  616.75   17.24    6.13    3.72    0.00    0.00    0.29  190.60    3.21    0.07    0.69    0.00    0.00    0.00    0.00    0.00
+1
+    SWAT Mar 17 2015    VER 2012/Rev 636_smrt                                       
+
+    General Input/Output section (file.cio):                                        
+    3/18/2025 12:00:00 AM ARCGIS-SWAT interface AV                                  
+                                                                                    
+Annual Summary for Watershed in year   22 of simulation
+
+UNIT                                             PERCO           TILE                                                                            WATER   SED     NO3     NO3     NO3     NO3     NO3     NO3     N       P       P       P       P       P       NO3     P
+TIME     PREC    SURQ    LATQ    GWQ     SWGW    LATE    RECH    Q           DRN       SW            GW      GWSTOR  GWCON   GWET    ET      PET     YIELD   YIELD   SURQ    LATQ    GWQ     SWGW    PERC    CROP    ORGANIC SOLUBLE ORGANIC TILENO3 GWQ     SWGW    DRN     DRN
+         (mm)    (mm)    (mm)    (mm)    (mm)    (mm)    (mm)    (mm)        (mm)      (mm)          (mm)    mm      mm      mm      (mm)    (mm)    (mm)    (mm)    ---------------------(kg nutrient/ha)--------------------------         ------------------------
+ 2022 1086.88  206.73  199.37  396.18  105.17   42.83   43.10    0.00        0.49       61.13     6064.52   -9.90    0.00    9.24  761.19 1068.57  694.80   26.55    4.93    4.28    0.00    0.00    2.36  193.42    4.23    0.10    0.94    0.00    0.00    0.00    0.00    0.00
+1
+    SWAT Mar 17 2015    VER 2012/Rev 636_smrt                                       
+
+    General Input/Output section (file.cio):                                        
+    3/18/2025 12:00:00 AM ARCGIS-SWAT interface AV                                  
+                                                                                    
+Annual Summary for Watershed in year   23 of simulation
+
+UNIT                                             PERCO           TILE                                                                            WATER   SED     NO3     NO3     NO3     NO3     NO3     NO3     N       P       P       P       P       P       NO3     P
+TIME     PREC    SURQ    LATQ    GWQ     SWGW    LATE    RECH    Q           DRN       SW            GW      GWSTOR  GWCON   GWET    ET      PET     YIELD   YIELD   SURQ    LATQ    GWQ     SWGW    PERC    CROP    ORGANIC SOLUBLE ORGANIC TILENO3 GWQ     SWGW    DRN     DRN
+         (mm)    (mm)    (mm)    (mm)    (mm)    (mm)    (mm)    (mm)        (mm)      (mm)          (mm)    mm      mm      mm      (mm)    (mm)    (mm)    (mm)    ---------------------(kg nutrient/ha)--------------------------         ------------------------
+ 2023  437.38   96.30   73.50  121.41   40.53    7.53    7.75    0.00        0.16      148.25     6013.82   13.46    0.00    2.13  127.66  228.99  255.90   13.08    0.67    1.28    0.00    0.00    0.34    0.00    2.21    0.07    0.55    0.00    0.00    0.00    0.00    0.00
+1
+    SWAT Mar 17 2015    VER 2012/Rev 636_smrt                                       
+
+    General Input/Output section (file.cio):                                        
+    3/18/2025 12:00:00 AM ARCGIS-SWAT interface AV                                  
+                                                                                    
+    FINAL VALUES
+
+1
+    SWAT Mar 17 2015    VER 2012/Rev 636_smrt                                       
+
+    General Input/Output section (file.cio):                                        
+    3/18/2025 12:00:00 AM ARCGIS-SWAT interface AV                                  
+                                                                                    
+                                            Average Plant Values (kg/ha)
+
+  HRU       1 SUB   1 BERM  Yld =  7844.2 BIOM =  16858.2
+  HRU       2 SUB   2 BERM  Yld =  7877.4 BIOM =  16411.3
+  HRU       3 SUB   3 TUMI  Yld =   287.8 BIOM =    405.8
+  HRU       4 SUB   4 BERM  Yld =  7080.2 BIOM =  19965.1
+  HRU       5 SUB   5 BERM  Yld =  7303.7 BIOM =  19699.2
+  HRU       6 SUB   6 FODB  Yld =   913.9 BIOM =   3655.7
+  HRU       7 SUB   7 BERM  Yld =  5976.6 BIOM =  18106.7
+  HRU       8 SUB   8 BERM  Yld =  5294.0 BIOM =  19224.1
+  HRU       9 SUB   9 TUMI  Yld =   285.2 BIOM =    401.6
+  HRU      10 SUB  10 TUMI  Yld =   258.5 BIOM =    364.3
+  HRU      11 SUB  11 TUMI  Yld =   267.0 BIOM =    376.0
+  HRU      12 SUB  12 TUMI  Yld =   245.7 BIOM =    346.2
+  HRU      13 SUB  13 TUBG  Yld =   230.2 BIOM =    324.6
+  HRU      14 SUB  14 TUWO  Yld =   257.4 BIOM =    362.8
+  HRU      15 SUB  15 BERM  Yld =  5293.9 BIOM =  19517.1
+  HRU      16 SUB  16 BERM  Yld =  5561.5 BIOM =  18872.7
+  HRU      17 SUB  17 TUWO  Yld =   249.3 BIOM =    351.5
+  HRU      18 SUB  18 BERM  Yld =  5566.0 BIOM =  18957.3
+  HRU      19 SUB  19 BERM  Yld =  5786.2 BIOM =  19046.7
+  HRU      20 SUB  20 BERM  Yld =  5356.7 BIOM =  19519.2
+  HRU      21 SUB  21 TUWO  Yld =   259.1 BIOM =    365.1
+  HRU      22 SUB  22 BERM  Yld =  5717.7 BIOM =  18779.2
+  HRU      23 SUB  23 BERM  Yld =  5455.6 BIOM =  19411.6
+  HRU      24 SUB  24 BERM  Yld =  5199.8 BIOM =  19365.6
+  HRU      25 SUB  25 BERM  Yld =  5893.6 BIOM =  18421.6
+  HRU      26 SUB  26 BERM  Yld =  5866.8 BIOM =  19270.8
+  HRU      27 SUB  27 TUMI  Yld =   271.1 BIOM =    381.3
+  HRU      28 SUB  28 BERM  Yld =  6022.2 BIOM =  18263.7
+  HRU      29 SUB  29 BERM  Yld =  5555.8 BIOM =  18716.6
+  HRU      30 SUB  30 BERM  Yld =  5516.8 BIOM =  18908.1
+  HRU      31 SUB  31 BERM  Yld =  6232.0 BIOM =  18911.3
+  HRU      32 SUB  32 BERM  Yld =  6107.9 BIOM =  17749.8
+  HRU      33 SUB  33 BERM  Yld =  7261.5 BIOM =  19570.9
+  HRU      34 SUB  34 BERM  Yld =  5526.1 BIOM =  18892.3
+  HRU      35 SUB  35 BERM  Yld =  5653.5 BIOM =  18688.9
+  HRU      36 SUB  36 BERM  Yld =  5720.7 BIOM =  18486.3
+  HRU      37 SUB  37 BERM  Yld =  6063.9 BIOM =  18273.1
+  HRU      38 SUB  38 BERM  Yld =  5673.2 BIOM =  18733.6
+  HRU      39 SUB  39 BERM  Yld =  6776.1 BIOM =  16912.0
+  HRU      40 SUB  40 BERM  Yld =  6361.9 BIOM =  20169.0
+  HRU      41 SUB  41 BERM  Yld =  5978.8 BIOM =  18379.8
+  HRU      42 SUB  42 BERM  Yld =  5990.5 BIOM =  18606.5
+  HRU      43 SUB  43 BERM  Yld =  5564.1 BIOM =  18824.4
+  HRU      44 SUB  44 BERM  Yld =  6236.7 BIOM =  20335.9
+  HRU      45 SUB  45 BERM  Yld =  5923.4 BIOM =  18486.5
+  HRU      46 SUB  46 BERM  Yld =  5190.3 BIOM =  19674.8
+  HRU      47 SUB  47 BERM  Yld =  5919.4 BIOM =  18705.4
+  HRU      48 SUB  48 BERM  Yld =  5894.7 BIOM =  18458.3
+  HRU      49 SUB  49 BERM  Yld =  5580.6 BIOM =  18809.8
+  HRU      50 SUB  50 BERM  Yld =  7262.6 BIOM =  18784.4
+  HRU      51 SUB  51 TUMI  Yld =   255.1 BIOM =    358.9
+  HRU      52 SUB  52 BERM  Yld =  5576.1 BIOM =  18604.8
+  HRU      53 SUB  53 BERM  Yld =  5448.6 BIOM =  18851.8
+  HRU      54 SUB  54 BERM  Yld =  7020.5 BIOM =  19378.3
+  HRU      55 SUB  55 BERM  Yld =  5820.7 BIOM =  18540.4
+  HRU      56 SUB  56 BERM  Yld =  6324.5 BIOM =  20258.6
+  HRU      57 SUB  57 BERM  Yld =  5423.0 BIOM =  18922.6
+  HRU      58 SUB  58 BERM  Yld =  5969.8 BIOM =  18549.7
+  HRU      59 SUB  59 BERM  Yld =  5794.6 BIOM =  19334.1
+  HRU      60 SUB  60 BERM  Yld =  5343.8 BIOM =  19078.6
+  HRU      61 SUB  61 BERM  Yld =  5477.7 BIOM =  19061.9
+  HRU      62 SUB  62 BERM  Yld =  5707.5 BIOM =  18621.7
+  HRU      63 SUB  63 BERM  Yld =  5404.8 BIOM =  18827.6
+  HRU      64 SUB  64 BERM  Yld =  5436.2 BIOM =  18915.5
+  HRU      65 SUB  65 BERM  Yld =  5718.4 BIOM =  18635.0
+  HRU      66 SUB  66 BERM  Yld =  5420.1 BIOM =  18957.6
+  HRU      67 SUB  67 BERM  Yld =  5571.9 BIOM =  18708.4
+  HRU      68 SUB  68 TUMI  Yld =   245.6 BIOM =    346.1
+  HRU      69 SUB  69 BERM  Yld =  6147.7 BIOM =  18244.1
+  HRU      70 SUB  70 TUWO  Yld =   340.9 BIOM =    479.7
+  HRU      71 SUB  71 TUWO  Yld =   263.7 BIOM =    372.2
+  HRU      72 SUB  72 TUMI  Yld =   254.0 BIOM =    358.3
+  HRU      73 SUB  73 BERM  Yld =  7183.0 BIOM =  19550.1
+  HRU      74 SUB  74 BERM  Yld =  5540.6 BIOM =  18936.0
+  HRU      75 SUB  75 BERM  Yld =  6998.4 BIOM =  19249.7
+  HRU      76 SUB  76 BERM  Yld =  6836.7 BIOM =  19746.2
+  HRU      77 SUB  77 BERM  Yld =  6179.0 BIOM =  20489.8
+  HRU      78 SUB  78 BERM  Yld =  6376.4 BIOM =  19997.8
+  HRU      79 SUB  79 TUMI  Yld =   261.8 BIOM =    369.1
+  HRU      80 SUB  80 BERM  Yld =  5145.1 BIOM =  19184.7
+  HRU      81 SUB  81 BERM  Yld =  5313.4 BIOM =  19196.8
+  HRU      82 SUB  82 BERM  Yld =  6340.5 BIOM =  20334.0
+  HRU      83 SUB  83 BERM  Yld =  5255.1 BIOM =  19376.9
+  HRU      84 SUB  84 BERM  Yld =  6228.7 BIOM =  20351.7
+  HRU      85 SUB  85 BERM  Yld =  6199.3 BIOM =  20455.3
+  HRU      86 SUB  86 BERM  Yld =  5175.1 BIOM =  19315.9
+  HRU      87 SUB  87 BERM  Yld =  5174.1 BIOM =  19314.0
+  HRU      88 SUB  88 BERM  Yld =  6098.1 BIOM =  20554.9
+  HRU      89 SUB  89 BERM  Yld =  5381.2 BIOM =  19423.2
+  HRU      90 SUB  90 BERM  Yld =  5622.7 BIOM =  19219.6
+  HRU      91 SUB  91 BERM  Yld =  5581.4 BIOM =  19357.5
+  HRU      92 SUB  92 BERM  Yld =  5955.7 BIOM =  20549.2
+  HRU      93 SUB  93 BERM  Yld =  5139.2 BIOM =  19506.8
+  HRU      94 SUB  94 BERM  Yld =  5964.4 BIOM =  20657.2
+  HRU      95 SUB  95 BERM  Yld =  5594.3 BIOM =  19339.4
+  HRU      96 SUB  96 BERM  Yld =  5780.5 BIOM =  19334.7
+  HRU      97 SUB  97 BERM  Yld =  4968.2 BIOM =  19450.9
+  HRU      98 SUB  98 BERM  Yld =  5691.1 BIOM =  18785.7
+  HRU      99 SUB  99 BERM  Yld =  4979.4 BIOM =  19424.1
+  HRU     100 SUB 100 BERM  Yld =  5460.2 BIOM =  18893.8
+  HRU     101 SUB 101 BERM  Yld =  5557.0 BIOM =  18880.7
+  HRU     102 SUB 102 BERM  Yld =  5692.1 BIOM =  18788.8
+  HRU     103 SUB 103 BERM  Yld =  6461.1 BIOM =  17680.6
+  HRU     104 SUB 104 BERM  Yld =  5431.0 BIOM =  18837.6
+  HRU     105 SUB 105 BERM  Yld =  5992.4 BIOM =  18358.6
+  HRU     106 SUB 106 BERM  Yld =  5476.4 BIOM =  18770.4
+  HRU     107 SUB 107 BERM  Yld =  5614.3 BIOM =  18959.1
+  HRU     108 SUB 108 BERM  Yld =  5891.3 BIOM =  18556.9
+  HRU     109 SUB 109 BERM  Yld =  6299.9 BIOM =  17737.1
+  HRU     110 SUB 110 BERM  Yld =  5358.6 BIOM =  18942.6
+  HRU     111 SUB 111 BERM  Yld =  5605.5 BIOM =  18969.9
+  HRU     112 SUB 112 BERM  Yld =  5389.3 BIOM =  18933.3
+  HRU     113 SUB 113 BERM  Yld =  5396.7 BIOM =  18807.4
+  HRU     114 SUB 114 BERM  Yld =  5393.8 BIOM =  19062.2
+  HRU     115 SUB 115 BERM  Yld =  5615.2 BIOM =  18942.7
+  HRU     116 SUB 116 BERM  Yld =  6182.2 BIOM =  18194.5
+  HRU     117 SUB 117 BERM  Yld =  5978.1 BIOM =  18668.6
+  HRU     118 SUB 118 BERM  Yld =  5512.2 BIOM =  18834.1
+  HRU     119 SUB 119 BERM  Yld =  5739.9 BIOM =  18757.0
+  HRU     120 SUB 120 BERM  Yld =  5537.0 BIOM =  18759.9
+  HRU     121 SUB 121 BERM  Yld =  5417.6 BIOM =  18849.4
+  HRU     122 SUB 122 BERM  Yld =  5434.1 BIOM =  19079.7
+  HRU     123 SUB 123 BERM  Yld =  5594.8 BIOM =  18975.6
+  HRU     124 SUB 124 BERM  Yld =  6722.7 BIOM =  16669.6
+  HRU     125 SUB 125 BERM  Yld =  5460.1 BIOM =  18839.3
+  HRU     126 SUB 126 BERM  Yld =  6032.6 BIOM =  18426.1
+  HRU     127 SUB 127 BERM  Yld =  5541.0 BIOM =  18724.0
+  HRU     128 SUB 128 BERM  Yld =  6345.8 BIOM =  17836.0
+  HRU     129 SUB 129 BERM  Yld =  6794.6 BIOM =  16364.5
+  HRU     130 SUB 130 BERM  Yld =  5490.8 BIOM =  18725.7
+  HRU     131 SUB 131 BERM  Yld =  5400.8 BIOM =  18721.4
+  HRU     132 SUB 132 BERM  Yld =  6192.1 BIOM =  18158.6
+  HRU     133 SUB 133 BERM  Yld =  5450.4 BIOM =  18988.5
+  HRU     134 SUB 134 BERM  Yld =  5517.8 BIOM =  18681.6
+  HRU     135 SUB 135 BERM  Yld =  6104.1 BIOM =  18283.7
+  HRU     136 SUB 136 BERM  Yld =  5470.9 BIOM =  18885.1
+  HRU     137 SUB 137 BERM  Yld =  5983.1 BIOM =  18468.6
+  HRU     138 SUB 138 BERM  Yld =  5457.8 BIOM =  18928.8
+  HRU     139 SUB 139 BERM  Yld =  5465.0 BIOM =  19008.4
+
+    HRU STATISTICS
+
+                AVE ANNUAL VALUES
+
+   HRU  SUB  SOIL       AREAkm2    CN     AWCmm   USLE_LS  IRRmm  AUTONkh AUTOPkh  MIXEF PRECmm SURQGENmm   GWQmm    ETmm   SEDth  NO3kgh  ORGNkgh BIOMth   YLDth  SURQmm
+      1   1   Be1-2c-4   .393E+02   73.86  180.00   85.11    0.00  147.27    0.00    0.21 1262.37  199.94  336.72  730.11   74.87    9.91   15.24    5.21    2.77  200.00
+      2   2   Lo11-2ab   .136E+03   73.86  160.00   63.00    0.00  146.37    0.00    0.21 1237.12  191.88  536.48  718.50   52.89    9.86   10.29    5.04    2.68  191.95
+      3   3   Lo13-2a-   .146E+03   59.44  180.00   34.36    0.00    0.00    0.00    0.21 1216.50   58.01  964.83  598.83  276.99    0.27    9.25    0.42    0.30   58.01
+      4   4   Lo13-2a-   .405E+02   73.86  180.00   12.58    0.00  151.37    0.00    0.21 1197.51  218.00  477.74  759.99    5.25    9.28    6.31    6.27    3.33  218.07
+      5   5   Lo13-2a-   .359E+01   73.86  180.00   20.40    0.00  154.14    0.00    0.21 1197.51  203.30 9197.60  748.18   11.22   10.22    7.59    6.16    3.28  203.36
+      6   6   Lo13-2a-   .358E+01   62.05  180.00    6.33    0.00    0.00    0.00    0.21 1197.51   45.6616644.35  833.57    0.49    0.21    0.99    3.94    0.00   45.66
+      7   7   Lo13-2a-   .816E+02   73.86  180.00   27.13    0.00  138.07    0.00    0.21 1182.77  194.75 1597.90  725.68    3.28    8.94    5.95    1.86    0.00  194.85
+      8   8   Lo13-2a-   .379E+02   73.86  180.00    8.51    0.00  132.71    0.00    0.21 1182.10  224.31  176.05  751.97    0.85    8.23    3.22    1.97    0.00  224.40
+      9   9   Lo13-2a-   .503E+02   59.44  180.00   31.40    0.00    0.00    0.00    0.21 1176.51   62.62 2979.68  579.74  258.80    0.26    9.27    0.41    0.29   62.62
+     10  10   Lo13-2a-   .480E+02   59.44  180.00   16.00    0.00    0.00    0.00    0.21 1176.51   67.04 2063.86  593.64  164.34    0.25    9.35    0.38    0.27   67.04
+     11  11   Lo13-2a-   .539E+02   59.44  180.00   19.73    0.00    0.00    0.00    0.21 1172.76   61.39 1948.35  588.82  167.32    0.25    9.25    0.39    0.28   61.39
+     12  12   Lo13-2a-   .253E+01   59.44  180.00    9.98    0.00    0.00    0.00    0.21 1172.76   64.44  375.81  599.16  124.60    0.22    9.20    0.36    0.25   64.44
+     13  13   Lo13-2a-   .224E+01   59.44  180.00    4.41    0.00    0.00    0.00    0.21 1173.70   68.0414632.29  610.26   40.95    0.18    8.69    0.34    0.24   68.04
+     14  14   Lo13-2a-   .133E+03   59.44  180.00   13.68    0.00    0.00    0.00    0.21 1170.53   62.91  534.22  597.70   93.72    0.24    9.36    0.37    0.27   62.91
+     15  15   Lo13-2a-   .108E+02   73.86  180.00    7.16    0.00  133.47    0.00    0.21 1164.74  215.60  159.68  756.60    0.74    7.84    2.74    2.00    0.00  215.62
+     16  16   Lo13-2a-   .496E+02   73.86  180.00    3.73    0.00  129.18    0.00    0.21 1160.37  233.17 2288.44  753.78    0.36    6.19    1.47    1.94    0.00  233.22
+     17  17   Lo13-2a-   .148E+03   59.44  180.00   10.48    0.00    0.00    0.00    0.21 1171.63   63.43  570.60  602.70   85.36    0.23    9.50    0.36    0.26   63.43
+     18  18   Lo13-2a-   .679E+02   73.86  180.00    5.14    0.00  130.96    0.00    0.21 1155.96  226.53 2537.52  753.42    0.53    6.84    1.99    1.95    0.00  226.56
+     19  19   Lo13-2a-   .186E+00   73.86  180.00   17.83    0.00  136.83    0.00    0.21 1171.63  195.6158571.39  746.49    1.69    9.36    4.65    1.95    0.00  195.61
+     20  20   Lo13-2a-   .146E+01   73.86  180.00    5.51    0.00  132.91    0.00    0.21 1171.63  218.8017599.34  760.86    0.59    7.77    2.28    2.00    0.00  218.81
+     21  21   Lo13-2a-   .965E+02   59.44  180.00   14.85    0.00    0.00    0.00    0.21 1170.80   63.36 1057.02  593.75  128.72    0.24    9.46    0.38    0.27   63.36
+     22  22   Lo13-2a-   .338E+02   73.86  180.00   10.48    0.00  132.39    0.00    0.21 1155.96  215.17 1638.07  747.19    1.06    7.60    3.30    1.93    0.00  215.20
+     23  23   Lo13-2a-   .674E+01   73.86  180.00    2.50    0.00  131.14    0.00    0.21 1171.53  226.48 9575.82  770.70    0.20    6.63    0.98    1.99    0.00  226.48
+     24  24   Lo13-2a-   .616E+02   73.86  180.00    6.33    0.00  132.78    0.00    0.21 1166.71  218.84  891.51  756.46    0.67    7.76    2.66    1.99    0.00  218.89
+     25  25   Lo13-2a-   .701E+02   73.86  180.00   14.26    0.00  132.80    0.00    0.21 1151.33  203.67  944.39  742.48    1.25    7.83    3.60    1.89    0.00  203.69
+     26  26   Lo13-2a-   .893E+02   73.86  180.00   11.00    0.00  134.70    0.00    0.21 1168.02  204.29 1117.48  762.95    1.04    7.86    3.41    1.98    0.00  204.31
+     27  27   Lo13-2a-   .559E+01   59.44  180.00   19.73    0.00    0.00    0.00    0.21 1146.40   70.58 1572.28  580.32  264.70    0.23    9.79    0.39    0.28   70.58
+     28  28   Lo13-2a-   .163E+02   73.86  180.00   26.46    0.00  139.12    0.00    0.21 1182.10  194.18  579.71  727.90    3.04    9.17    5.69    1.87    0.00  194.26
+     29  29   Lo13-2a-   .847E+02   73.86  180.00    5.51    0.00  129.07    0.00    0.21 1160.14  231.25 2369.15  746.08    0.59    6.56    2.21    1.92    0.00  231.30
+     30  30   Lo13-2a-   .209E+02   73.86  180.00    3.40    0.00  129.63    0.00    0.21 1155.71  229.38 2404.21  754.93    0.34    6.37    1.40    1.94    0.00  229.39
+     31  31   Lo13-2a-   .777E+02   73.86  180.00   18.46    0.00  137.53    0.00    0.21 1168.02  192.09 1413.61  751.24    1.69    8.31    4.37    1.94    0.00  192.11
+     32  32   Lo13-2a-   .444E+02   73.86  180.00   30.69    0.00  138.31    0.00    0.21 1176.58  187.50 1670.65  717.64    4.00    9.29    6.14    1.82    0.00  187.50
+     33  33   Lo13-2a-   .667E+02   73.86  180.00   17.20    0.00  151.44    0.00    0.21 1200.54  202.84  699.52  770.28    8.86    9.29    7.19    6.09    3.23  202.92
+     34  34   Lo13-2a-   .150E+02   73.86  180.00    4.41    0.00  129.91    0.00    0.21 1155.71  226.87  588.41  753.87    0.48    6.67    1.82    1.94    0.00  226.88
+     35  35   Lo13-2a-   .440E+02   73.86  180.00   10.48    0.00  131.28    0.00    0.21 1149.88  210.54  983.17  747.14    0.98    7.57    3.14    1.92    0.00  210.55
+     36  36   Lo13-2a-   .429E+02   73.86  180.00   22.35    0.00  137.73    0.00    0.21 1176.58  197.14 1690.83  731.33    2.96    9.19    5.84    1.90    0.00  197.15
+     37  37   Lo13-2a-   .909E+02   73.86  180.00   12.05    0.00  133.55    0.00    0.21 1162.27  209.96 1201.86  754.51    1.29    7.46    3.66    1.87    0.00  209.97
+     38  38   Lo13-2a-   .141E+03   73.86  180.00    9.49    0.00  132.53    0.00    0.21 1146.89  209.80  740.73  750.62    0.85    7.49    2.78    1.92    0.00  209.80
+     39  39   Lo13-2a-   .217E+00   73.86  180.00   30.69    0.00  134.55    0.00    0.21 1147.34  179.6510036.62  724.95    4.27    8.86    5.59    1.73    0.00  179.66
+     40  40   Lo13-2a-   .315E+02   73.86  180.00    9.98    0.00  157.33    0.00    0.21 1177.41  214.38  188.63  767.63    1.03    8.63    3.56    2.07    0.00  214.42
+     41  41   Lo13-2a-   .265E+02   73.86  180.00   16.00    0.00  133.28    0.00    0.21 1149.88  200.66  789.74  739.01    1.59    7.99    4.19    1.89    0.00  200.68
+     42  42   Lo13-2a-   .335E+02   73.86  180.00    8.03    0.00  133.66    0.00    0.21 1147.34  209.40  814.66  761.43    0.76    7.39    2.51    1.91    0.00  209.42
+     43  43   Lo13-2a-   .914E+02   73.86  180.00    6.73    0.00  130.46    0.00    0.21 1155.71  221.88 1077.04  751.23    0.56    7.09    2.07    1.93    0.00  221.89
+     44  44   Lo13-2a-   .580E+02   73.86  180.00    7.16    0.00  156.39    0.00    0.21 1177.41  220.94 1484.88  770.89    0.77    8.34    2.92    2.09    0.00  220.97
+     45  45   Lo13-2a-   .114E+03   73.86  180.00    7.16    0.00  132.48    0.00    0.21 1157.05  218.73 1089.69  761.60    0.69    6.83    2.34    1.90    0.00  218.86
+     46  46   Lo13-2a-   .157E+01   73.86  180.00    2.80    0.00  132.58    0.00    0.21 1164.74  225.96 6019.50  761.67    0.27    6.99    1.33    2.02    0.00  225.98
+     47  47   Lo13-2a-   .537E+02   73.86  180.00    5.91    0.00  132.94    0.00    0.21 1147.34  214.20  528.15  763.87    0.51    6.85    1.83    1.92    0.00  214.22
+     48  48   Lo13-2a-   .107E+02   73.86  180.00    7.16    0.00  133.54    0.00    0.21 1156.74  218.68 2962.50  760.36    0.79    7.21    2.50    1.89    0.00  218.71
+     49  49   Lo13-2a-   .382E+02   73.86  180.00    5.91    0.00  130.62    0.00    0.21 1159.14  227.57 1801.68  748.15    0.62    6.84    2.31    1.93    0.00  227.62
+     50  50   Lo13-2a-   .111E+03   73.86  180.00   27.84    0.00  159.10    0.00    0.21 1193.87  195.81  856.56  741.63    3.42    9.23    5.89    1.93    0.00  195.91
+     51  51   Lo13-2a-   .493E+02   59.44  180.00   12.58    0.00    0.00    0.00    0.21 1167.60   64.01 1768.70  603.32  112.92    0.23    9.73    0.37    0.26   64.01
+     52  52   Lo13-2a-   .696E+02   73.86  180.00   10.48    0.00  130.29    0.00    0.21 1150.86  211.15  881.17  746.19    0.88    7.47    2.88    1.91    0.00  211.20
+     53  53   Lo13-2a-   .167E+03   73.86  180.00    5.14    0.00  131.07    0.00    0.21 1165.75  230.18  133.44  762.35    0.37    7.02    1.50    1.93    0.00  230.21
+     54  54   Lo13-2a-   .209E+03   73.86  180.00   21.05    0.00  160.27    0.00    0.21 1193.87  203.30 1092.90  753.73    2.10    9.09    4.87    1.99    0.00  203.41
+     55  55   Lo13-2a-   .715E+02   73.86  180.00    4.76    0.00  131.98    0.00    0.21 1144.33  214.16  298.08  765.71    0.45    6.36    1.63    1.90    0.00  214.17
+     56  56   Lo13-2a-   .497E+02   73.86  180.00   10.48    0.00  157.59    0.00    0.21 1175.54  211.41 1022.34  767.95    1.05    9.11    3.62    2.08    0.00  211.50
+     57  57   Lo13-2a-   .116E+02   73.86  180.00    4.76    0.00  131.26    0.00    0.21 1168.83  230.28 2316.47  765.68    0.46    6.98    1.86    1.94    0.00  230.31
+     58  58   Lo13-2a-   .380E+02   73.86  180.00    8.03    0.00  133.30    0.00    0.21 1152.20  213.14 1179.57  761.41    0.90    7.36    2.83    1.90    0.00  213.17
+     59  59   Lo13-2a-   .490E+02   73.86  180.00    9.98    0.00  134.22    0.00    0.21 1167.60  205.13  177.11  766.31    0.98    7.52    3.22    1.98    0.00  205.16
+     60  60   Lo13-2a-   .487E+02   73.86  180.00    1.98    0.00  130.55    0.00    0.21 1134.54  217.13  154.74  754.19    0.17    5.92    0.70    1.96    0.00  217.20
+     61  61   Lo13-2a-   .303E+01   73.86  180.00   13.68    0.00  135.20    0.00    0.21 1166.71  204.09  200.85  747.42    1.59    8.62    4.15    1.96    0.00  204.12
+     62  62   Lo13-2a-   .148E+02   73.86  180.00   11.00    0.00  131.83    0.00    0.21 1151.33  209.82  607.64  746.93    1.10    7.63    3.28    1.91    0.00  209.84
+     63  63   Lo13-2a-   .110E+03   73.86  180.00    4.06    0.00  130.76    0.00    0.21 1161.19  227.72  498.62  764.61    0.33    6.96    1.34    1.93    0.00  227.74
+     64  64   Lo13-2a-   .201E+02   73.86  180.00    7.16    0.00  131.62    0.00    0.21 1177.41  228.47  922.62  765.63    0.75    7.28    2.73    1.94    0.00  228.51
+     65  65   Lo13-2a-   .440E+02   73.86  180.00    1.98    0.00  131.43    0.00    0.21 1143.57  222.12  187.92  768.11    0.17    5.52    0.70    1.91    0.00  222.16
+     66  66   Lo13-2a-   .193E+01   73.86  180.00    5.14    0.00  131.16    0.00    0.21 1177.41  232.85 7956.36  767.19    0.63    6.99    2.17    1.95    0.00  232.87
+     67  67   Lo13-2a-   .133E+02   73.86  180.00    5.91    0.00  132.08    0.00    0.21 1157.20  219.99  419.73  763.57    0.65    7.03    2.20    1.92    0.00  220.03
+     68  68   Lo13-2a-   .631E+02   59.44  180.00    9.98    0.00    0.00    0.00    0.21 1172.76   64.45 1249.27  599.06   91.18    0.22    9.23    0.36    0.25   64.45
+     69  69   Lo13-2a-   .997E+01   73.86  180.00   13.68    0.00  134.64    0.00    0.21 1152.15  203.17  904.06  751.50    1.70    7.76    3.86    1.87    0.00  203.23
+     70  70   Lo11-2ab   .679E+02   59.44  160.00   83.32    0.00    0.00    0.00    0.21 1256.05   63.29 1275.52  580.71 1184.66    0.34   12.41    0.50    0.35   63.29
+     71  71   Lo13-2a-   .673E+02   59.44  180.00   19.07    0.00    0.00    0.00    0.21 1212.19   59.60  549.45  612.81  172.38    0.27    9.35    0.38    0.27   59.60
+     72  72   Lo13-2a-   .105E+03   59.44  180.00   13.68    0.00    0.00    0.00    0.21 1198.04   61.86  457.56  615.38  123.99    0.25    9.33    0.37    0.26   61.86
+     73  73   Lo13-2a-   .275E+03   73.86  180.00   18.46    0.00  151.48    0.00    0.21 1214.58  206.55  288.19  771.27    6.98    9.82    6.72    6.13    3.26  206.68
+     74  74   Lo13-2a-   .136E+03   73.86  180.00   16.61    0.00  134.90    0.00    0.21 1183.76  207.57  321.14  744.79    1.77    8.73    4.99    1.94    0.00  207.66
+     75  75   Lo13-2a-   .122E+03   73.86  180.00   20.40    0.00  159.58    0.00    0.21 1186.09  201.91  227.73  750.92    2.45    9.03    5.20    1.98    0.00  202.00
+     76  76   Lo13-2a-   .564E+02   73.86  180.00   17.83    0.00  161.62    0.00    0.21 1187.85  203.74  315.66  759.36    1.88    9.26    4.88    2.03    0.00  203.75
+     77  77   Lo13-2a-   .776E+02   73.86  180.00    4.06    0.00  155.76    0.00    0.21 1202.37  240.21  131.30  778.06    0.36    8.23    1.60    2.10    0.00  240.19
+     78  78   Lo13-2a-   .559E+02   73.86  180.00    9.98    0.00  156.11    0.00    0.21 1179.80  215.82 1117.43  767.53    1.37    8.31    4.14    2.05    0.00  215.83
+     79  79   Lo13-2a-   .819E+02   59.44  180.00   17.83    0.00    0.00    0.00    0.21 1177.25   64.09  435.25  593.04  168.47    0.25    9.38    0.38    0.27   64.09
+     80  80   Lo13-2a-   .616E+02   73.86  180.00    8.51    0.00  131.90    0.00    0.21 1176.58  221.88  175.85  749.82    0.94    8.15    3.52    1.97    0.00  221.88
+     81  81   Lo13-2a-   .613E+02   73.86  180.00    8.51    0.00  132.65    0.00    0.21 1174.04  219.88  338.68  750.02    0.77    8.34    2.95    1.97    0.00  219.92
+     82  82   Lo13-2a-   .142E+03   73.86  180.00    9.98    0.00  156.41    0.00    0.21 1194.87  221.48  478.48  771.53    0.95    8.76    3.44    2.09    0.00  221.48
+     83  83   Lo13-2a-   .134E+03   73.86  180.00    6.73    0.00  132.72    0.00    0.21 1175.16  223.28  493.73  753.37    0.66    8.12    2.68    1.99    0.00  223.30
+     84  84   Lo13-2a-   .185E+03   73.86  180.00    9.00    0.00  156.26    0.00    0.21 1186.73  221.55  560.20  771.07    0.86    8.64    3.22    2.09    0.00  221.61
+     85  85   Lo13-2a-   .886E+02   73.86  180.00    9.00    0.00  156.70    0.00    0.21 1184.18  218.91  323.64  771.91    0.79    9.21    3.08    2.10    0.00  218.98
+     86  86   Lo13-2a-   .645E+02   73.86  180.00    6.73    0.00  132.44    0.00    0.21 1170.97  222.41  177.34  753.17    0.62    7.94    2.54    1.98    0.00  222.46
+     87  87   Lo13-2a-   .635E+02   73.86  180.00    6.73    0.00  132.51    0.00    0.21 1170.97  222.47  159.67  753.03    0.70    7.93    2.81    1.98    0.00  222.51
+     88  88   Lo13-2a-   .760E+02   73.86  180.00    6.33    0.00  155.48    0.00    0.21 1184.18  225.26  563.04  774.90    0.57    8.79    2.41    2.11    0.00  225.32
+     89  89   Lo13-2a-   .467E+02   73.86  180.00    6.73    0.00  132.34    0.00    0.21 1166.11  214.91  156.33  758.98    0.62    7.72    2.49    1.99    0.00  214.92
+     90  90   Lo13-2a-   .860E+02   73.86  180.00    9.98    0.00  133.12    0.00    0.21 1171.53  208.99  178.98  762.97    0.90    7.94    3.14    1.97    0.00  208.99
+     91  91   Lo13-2a-   .476E+02   73.86  180.00    5.14    0.00  132.14    0.00    0.21 1167.22  217.65  138.75  768.42    0.44    7.18    1.80    1.99    0.00  217.67
+     92  92   Lo13-2a-   .107E+03   73.86  180.00    4.06    0.00  154.99    0.00    0.21 1171.78  225.00  509.42  777.08    0.38    8.31    1.72    2.11    0.00  225.05
+     93  93   Lo13-2a-   .549E+02   73.86  180.00    4.41    0.00  132.36    0.00    0.21 1165.69  225.23  227.92  757.86    0.50    7.30    2.13    2.00    0.00  225.28
+     94  94   Lo13-2a-   .117E+03   73.86  180.00    3.73    0.00  155.92    0.00    0.21 1180.22  229.89  423.17  779.39    0.35    8.08    1.56    2.12    0.00  229.91
+     95  95   Lo13-2a-   .694E+02   73.86  180.00    5.51    0.00  132.28    0.00    0.21 1167.22  216.91  142.60  767.70    0.50    7.23    2.00    1.98    0.00  216.93
+     96  96   Lo13-2a-   .939E+02   73.86  180.00   10.48    0.00  134.60    0.00    0.21 1168.60  203.09  179.80  766.48    0.98    7.59    3.24    1.98    0.00  203.14
+     97  97   Lo13-2a-   .679E+02   73.86  180.00    1.26    0.00  130.63    0.00    0.21 1168.00  233.54   75.72  761.82    0.13    5.93    0.59    2.00    0.00  233.57
+     98  98   Lo13-2a-   .728E+02   73.86  180.00    7.60    0.00  131.70    0.00    0.21 1160.32  223.38  831.61  747.70    0.74    7.01    2.57    1.93    0.00  223.41
+     99  99   Lo13-2a-   .103E+03   73.86  180.00    2.23    0.00  130.48    0.00    0.21 1168.00  230.74  154.46  760.54    0.22    6.47    0.99    1.99    0.00  230.78
+    100 100   Lo13-2a-   .124E+03   73.86  180.00    1.05    0.00  129.87    0.00    0.21 1165.75  242.42   64.07  765.04    0.11    5.16    0.42    1.94    0.00  242.45
+    101 101   Lo13-2a-   .856E+02   73.86  180.00    2.23    0.00  128.99    0.00    0.21 1160.37  239.41   96.51  750.01    0.26    5.64    1.08    1.94    0.00  239.46
+    102 102   Lo13-2a-   .122E+03   73.86  180.00    7.60    0.00  131.62    0.00    0.21 1160.32  223.39  161.26  747.67    0.62    7.02    2.19    1.93    0.00  223.42
+    103 103   Lo13-2a-   .730E+02   73.86  180.00   21.71    0.00  135.54    0.00    0.21 1162.76  195.33  220.71  741.20    2.46    8.00    4.86    1.81    0.00  195.36
+    104 104   Lo13-2a-   .662E+02   73.86  180.00    7.60    0.00  131.44    0.00    0.21 1183.32  234.25  514.05  760.86    0.69    7.22    2.60    1.93    0.00  234.29
+    105 105   Lo13-2a-   .640E+02   73.86  180.00   10.48    0.00  132.92    0.00    0.21 1162.43  213.87  171.95  757.75    1.01    7.26    3.15    1.88    0.00  213.88
+    106 106   Lo13-2a-   .655E+02   73.86  180.00    8.51    0.00  131.81    0.00    0.21 1174.26  226.39  924.18  759.60    0.71    7.37    2.59    1.93    0.00  226.42
+    107 107   Lo13-2a-   .157E+03   73.86  180.00    4.41    0.00  131.39    0.00    0.21 1157.58  226.52  415.23  757.87    0.38    6.73    1.44    1.95    0.00  226.56
+    108 108   Lo13-2a-   .123E+03   73.86  180.00    9.00    0.00  134.23    0.00    0.21 1162.76  214.87  164.03  760.99    0.88    7.19    2.77    1.90    0.00  214.92
+    109 109   Lo13-2a-   .726E+02   73.86  180.00   19.07    0.00  134.64    0.00    0.21 1157.05  197.04  393.54  744.39    1.87    7.90    4.31    1.82    0.00  197.17
+    110 110   Lo13-2a-   .648E+02   73.86  180.00    3.73    0.00  129.87    0.00    0.21 1188.15  242.10  121.44  767.10    0.35    6.29    1.47    1.94    0.00  242.15
+    111 111   Lo13-2a-   .692E+02   73.86  180.00    3.09    0.00  131.20    0.00    0.21 1155.85  228.91  109.60  757.01    0.28    6.51    1.13    1.95    0.00  228.94
+    112 112   Lo13-2a-   .582E+02   73.86  180.00    4.76    0.00  131.00    0.00    0.21 1183.32  239.50  381.95  764.67    0.48    6.67    1.92    1.94    0.00  239.53
+    113 113   Lo13-2a-   .477E+02   73.86  180.00    5.14    0.00  129.28    0.00    0.21 1156.02  226.24  140.84  752.99    0.45    6.96    1.74    1.93    0.00  226.30
+    114 114   Lo13-2a-   .463E+02   73.86  180.00    4.41    0.00  130.75    0.00    0.21 1185.67  237.05  136.14  769.08    0.39    6.74    1.63    1.96    0.00  237.11
+    115 115   Lo13-2a-   .466E+02   73.86  180.00    4.41    0.00  131.49    0.00    0.21 1155.85  226.04  126.98  755.54    0.42    6.89    1.65    1.94    0.00  226.08
+    116 116   Lo13-2a-   .110E+03   73.86  180.00   14.85    0.00  135.09    0.00    0.21 1156.90  202.66  191.30  752.78    1.50    7.53    3.90    1.87    0.00  202.69
+    117 117   Lo13-2a-   .662E+02   73.86  180.00    6.73    0.00  132.92    0.00    0.21 1152.40  216.04  552.67  762.40    0.70    7.02    2.38    1.92    0.00  216.08
+    118 118   Lo13-2a-   .472E+02   73.86  180.00    4.41    0.00  131.40    0.00    0.21 1164.31  227.17  151.72  766.88    0.40    6.74    1.59    1.93    0.00  227.25
+    119 119   Lo13-2a-   .793E+02   73.86  180.00    9.00    0.00  132.30    0.00    0.21 1152.13  214.34  162.80  752.41    0.77    7.61    2.60    1.92    0.00  214.37
+    120 120   Lo13-2a-   .520E+02   73.86  180.00    4.06    0.00  131.54    0.00    0.21 1157.20  224.50  317.32  765.33    0.38    6.65    1.47    1.92    0.00  224.58
+    121 121   Lo13-2a-   .691E+02   73.86  180.00    4.06    0.00  128.67    0.00    0.21 1150.86  224.67  452.82  754.02    0.40    6.43    1.57    1.93    0.00  224.71
+    122 122   Lo13-2a-   .132E+03   73.86  180.00    2.80    0.00  132.14    0.00    0.21 1172.26  233.83  444.20  770.59    0.27    6.29    1.09    1.96    0.00  233.89
+    123 123   Lo13-2a-   .472E+02   73.86  180.00    2.80    0.00  130.88    0.00    0.21 1157.58  230.60  104.29  759.00    0.26    6.18    1.04    1.95    0.00  230.64
+    124 124   Lo13-2a-   .463E+02   73.86  180.00   33.56    0.00  134.04    0.00    0.21 1151.78  179.28  450.09  721.57    4.05    8.59    5.77    1.71    0.00  179.34
+    125 125   Lo13-2a-   .991E+02   73.86  180.00    3.73    0.00  129.31    0.00    0.21 1151.51  226.55  265.65  753.73    0.32    6.70    1.26    1.93    0.00  226.64
+    126 126   Lo13-2a-   .603E+02   73.86  180.00   10.48    0.00  133.63    0.00    0.21 1152.15  209.24  637.31  756.38    1.03    7.55    3.16    1.89    0.00  209.34
+    127 127   Lo13-2a-   .957E+02   73.86  180.00    6.73    0.00  129.74    0.00    0.21 1145.82  217.35  507.35  752.72    0.64    7.00    2.23    1.92    0.00  217.36
+    128 128   Lo13-2a-   .923E+02   73.86  180.00   17.20    0.00  134.84    0.00    0.21 1147.00  194.38  772.93  745.92    1.73    7.80    4.10    1.83    0.00  194.39
+    129 129   Lo13-2a-   .104E+03   73.86  180.00   37.28    0.00  133.20    0.00    0.21 1146.58  172.98  488.87  714.64    4.48    8.65    5.90    1.68    0.00  173.07
+    130 130   Lo13-2a-   .746E+02   73.86  180.00    6.33    0.00  130.48    0.00    0.21 1146.40  217.53  229.05  753.10    0.50    6.95    1.83    1.92    0.00  217.52
+    131 131   Lo13-2a-   .154E+03   73.86  180.00    2.50    0.00  128.75    0.00    0.21 1148.07  227.76  387.74  755.43    0.22    6.19    0.88    1.92    0.00  227.80
+    132 132   Lo13-2a-   .108E+03   73.86  180.00   13.68    0.00  134.41    0.00    0.21 1147.00  199.65  183.63  752.13    1.29    7.70    3.55    1.86    0.00  199.65
+    133 133   Lo13-2a-   .734E+02   73.86  180.00    2.50    0.00  130.73    0.00    0.21 1146.89  225.62  233.13  758.78    0.23    6.02    0.91    1.95    0.00  225.62
+    134 134   Lo13-2a-   .215E+03   73.86  180.00    3.40    0.00  129.58    0.00    0.21 1142.71  221.47  308.38  755.37    0.28    6.46    1.07    1.92    0.00  221.50
+    135 135   Lo13-2a-   .458E+02   73.86  180.00   11.00    0.00  133.34    0.00    0.21 1141.02  198.92  287.28  757.35    0.95    7.41    2.94    1.88    0.00  198.99
+    136 136   Lo13-2a-   .925E+02   73.86  180.00    2.50    0.00  130.40    0.00    0.21 1143.86  223.15  105.26  758.85    0.23    6.02    0.93    1.94    0.00  223.19
+    137 137   Lo13-2a-   .134E+03   73.86  180.00    8.03    0.00  132.62    0.00    0.21 1141.02  204.96  167.18  761.86    0.73    7.09    2.43    1.89    0.00  205.03
+    138 138   Lo13-2a-   .711E+02   73.86  180.00    3.40    0.00  130.86    0.00    0.21 1131.08  211.11  231.36  752.32    0.26    6.34    1.02    1.94    0.00  211.18
+    139 139   Lo13-2a-   .912E+02   73.86  180.00    3.40    0.00  131.38    0.00    0.21 1135.74  215.57  113.19  750.50    0.28    6.90    1.10    1.95    0.00  215.63
+
+
+
+                AVE MONTHLY BASIN VALUES
+                   SNOW                      WATER               SED
+  MON     RAIN     FALL   SURF Q    LAT Q    YIELD       ET    YIELD      PET
+          (MM)     (MM)     (MM)     (MM)     (MM)     (MM)   (T/HA)     (MM)
+    1    92.83    35.16    22.66    17.58    67.16    11.33     4.04    19.24
+    2    84.94    33.87    29.64    15.87    66.32    16.40     6.09    27.41
+    3   105.54    10.05    33.53    19.75    79.01    37.94     5.45    60.27
+    4   101.14     0.28    23.70    20.51    69.48    54.30     2.02    97.49
+    5   117.56     0.00    25.62    21.52    72.84    73.40     1.36   137.23
+    6   121.47     0.00    14.71    19.88    63.28   111.71     0.89   158.05
+    7   112.96     0.00     3.30    17.34    51.73   140.14     0.04   164.21
+    8    91.96     0.00     2.08    14.11    46.56   118.58     0.13   147.99
+    9    85.14     0.00     4.48    11.78    44.79    84.95     0.57   110.95
+   10    82.88     0.00     6.21    10.96    45.93    49.75     0.52    68.99
+   11    81.60     2.76    10.05    10.92    47.71    30.50     1.57    35.80
+   12    91.29    34.44    20.29    13.40    58.08    15.61     3.10    21.06
+
+     AVE ANNUAL BASIN STRESS DAYS
+               WATER STRESS DAYS =     7.83
+               TEMPERATURE STRESS DAYS =    54.16
+               NITROGEN STRESS DAYS =    39.86
+               PHOSPHORUS STRESS DAYS =     0.06
+               AERATION STRESS DAYS =     0.00
+1
+    SWAT Mar 17 2015    VER 2012/Rev 636_smrt                                       
+
+    General Input/Output section (file.cio):                                        
+    3/18/2025 12:00:00 AM ARCGIS-SWAT interface AV                                  
+                                                                                    
+         AVE ANNUAL BASIN VALUES
+
+              PRECIP =   1170.1 MM
+              SNOW FALL =  118.85 MM
+              SNOW MELT =   113.41 MM
+              SUBLIMATION =     5.44 MM
+              SURFACE RUNOFF Q =   198.77 MM
+              LATERAL SOIL Q =  194.26 MM
+              TILE Q =     0.00 MM
+              DRAIN Q (MODFLOW) =     0.75MM
+              GROUNDWATER (SHAL AQ) Q =   418.34 MM
+              GROUNDWATER (DEEP AQ) Q =     0.00 MM
+              CHANGE IN GW STORAGE (MODFLOW) =   -44.79 MM
+              CONSTANT HEAD Q (MODFLOW) =     0.00 MM
+              RIVER SEEPAGE Q =    97.33 MM
+              REVAP (SHAL AQ => SOIL/PLANTS) =   22.81 MM
+              DEEP AQ RECHARGE =    18.67 MM
+              TOTAL AQ RECHARGE =   36.01 MM
+              TOTAL WATER YLD =   715.85 MM
+              PERCOLATION OUT OF SOIL =   36.00 MM
+              ET =    738.6 MM
+              ET FROM GROUNDWATER (MODFLOW) =     9.64 MM
+              PET =   1042.1MM
+              TRANSMISSION LOSSES =     0.00 MM
+              SEPTIC INFLOW =       0.00 MM
+              TOTAL SEDIMENT LOADING =    26.285 T/HA
+              TILE FROM IMPOUNDED WATER =     0.000 (MM)
+              EVAPORATION FROM IMPOUNDED WATER =     0.000 (MM)
+              SEEPAGE INTO SOIL FROM IMPOUNDED WATER =    0.000 (MM)
+              OVERFLOW FROM IMPOUNDED WATER =    0.000 (MM)
+1
+    SWAT Mar 17 2015    VER 2012/Rev 636_smrt                                       
+
+    General Input/Output section (file.cio):                                        
+    3/18/2025 12:00:00 AM ARCGIS-SWAT interface AV                                  
+                                                                                    
+              AVE ANNUAL BASIN VALUES
+
+
+              NUTRIENTS
+                   ORGANIC N =     3.738 (KG/HA)
+                   ORGANIC P =     0.815 (KG/HA)
+                   NO3 YIELD (SQ) =     3.495 (KG/HA)
+                   NO3 YIELD (LAT) =    3.265 (KG/HA)
+                   NO3 YIELD (TILE) =    0.000 (KG/HA)
+                   SOLP YIELD (TILE) =    0.000(KG/HA)
+                   SOLP YIELD (SURF INLET RISER) =    0.000 (KG/HA)
+                   SOL P YIELD (SQ) =    0.085 (KG/HA)
+                   NO3 LEACHED =     1.840 (KG/HA)
+                   P LEACHED =     0.014 (KG/HA)
+                   N UPTAKE =   142.527 (KG/HA)
+                   P UPTAKE =   37.636 (KG/HA)
+                   NO3 LOAD GW (RT3D) =     0.000 (KG/HA)
+                   NO3 SW-GW (RT3D) =     0.000 (KG/HA)
+                   NO3 LOAD DRAIN (RT3D) =     0.000 (KG/HA)
+                   P LOAD GW (RT3D) =     0.000 (KG/HA)
+                   P SW-GW (RT3D) =     0.000 (KG/HA)
+                   P LOAD DRAIN (RT3D) =     0.000 (KG/HA)
+
+                   ACTIVE TO SOLUTION P FLOW =       -21.857 (KG/HA)
+                   ACTIVE TO STABLE P FLOW =       -20.112 (KG/HA)
+                   N FERTILIZER APPLIED =   121.924 (KG/HA)
+                   P FERTILIZER APPLIED =     0.000 (KG/HA)
+                   N FIXATION =     0.000 (KG/HA)
+                   DENITRIFICATION =     0.000 (KG/HA)
+                   HUMUS MIN ON ACTIVE ORG N =     3.540 (KG/HA)
+                   ACTIVE TO STABLE ORG N =     2.806 (KG/HA)
+                   HUMUS MIN ON ACTIVE ORG P =    0.699 (KG/HA)
+                   MIN FROM FRESH ORG N =   44.856 (KG/HA)
+                   MIN FROM FRESH ORG P =   18.370 (KG/HA)
+                   NO3 IN RAINFALL =     0.000 (KG/HA)
+                   INITIAL NO3 IN SOIL =      47.291 (KG/HA)
+                   FINAL NO3 IN SOIL =        25.539 (KG/HA)
+                   INITIAL ORG N IN SOIL =    3930.889 (KG/HA)
+                   FINAL ORG N IN SOIL =      3973.390 (KG/HA)
+                   INITIAL MIN P IN SOIL =    2065.106 (KG/HA)
+                   FINAL MIN P IN SOIL =      1522.279 (KG/HA)
+                   INITIAL ORG P IN SOIL =     481.534 (KG/HA)
+                   FINAL ORG P IN SOIL =     553.617 (KG/HA)
+                   NO3 IN FERT =   121.924 (KG/HA)
+                   AMMONIA IN FERT =     0.000 (KG/HA)
+                   ORG N IN FERT =     0.000 (KG/HA)
+                   MINERAL P IN FERT =     0.000 (KG/HA)
+                   ORG P IN FERT =     0.000 (KG/HA)
+                   N REMOVED IN YIELD =    94.262 (KG/HA)
+                   P REMOVED IN YIELD =    17.538 (KG/HA)
+                   AMMONIA VOLATILIZATION =     0.000 (KG/HA)
+                   AMMONIA NITRIFICATION =      0.000 (KG/HA)
+                   NO3 EVAP-LAYER 2 TO 1 =    3.031
+
+                   DIE-GRO P Q =       0.0 (No/HA)
+                   DIE-GRO LP Q =       0.0 (No/HA)
+                   DIE-GRO P SED =      0.0 (No/HA)
+                   DIE-GRO LP SED =      0.0 (No/HA)
+                   BACT P RUNOFF =      0.0 (No/HA)
+                   BACT LP RUNOFF =      0.0 (No/HA)
+                   BACT P SEDIMENT =      0.0 (No/HA)
+                   BACT LP SEDIMENT =      0.0 (No/HA)
+                   BACT P INCORP =      0.0 (No/HA)
+                   BACT LP INCORP =      0.0 (No/HA)
+
+                   NITRATE SEPTIC =         0.00 (kg/ha)
+                   AMMONIA SEPTIC =         0.00 (kg/ha)
+                   ORG N SEPTIC =         0.00 (kg/ha)
+                   FRESH ORGN SEPTIC =         0.00 (kg/ha)
+                   ORG P SEPTIC =         0.00 (kg/ha)
+                   FRESH ORGP SEPTIC =         0.00 (kg/ha)
+                   SOL P SEPTIC =         0.00 (kg/ha)
+                   BOD SEPTIC =         0.00 (kg/ha)

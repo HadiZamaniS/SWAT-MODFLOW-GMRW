@@ -1,0 +1,5 @@
+# Great Miami River Watershed groundwater flow model
+3 40						# NRCHOP, IRCHCB
+0 0
+CONSTANT 	0.001			# RECH (L/T)
+
