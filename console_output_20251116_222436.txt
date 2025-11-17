@@ -1,0 +1,42 @@
+SWAT-MODFLOW3 Console Output
+Start: 2025-11-16 22:24:36.549774
+End: 2025-11-16 22:24:40.947171
+Duration: 0:00:04.397397
+Exit Code: 24
+
+================================================================================
+STDOUT:
+                SWAT2012               
+               Rev. 636_smrt          
+      Soil & Water Assessment Tool    
+               PC Version             
+ Program reading from file.cio . . . executing
+
+ MODFLOW is being used
+ Using NAME file: modflow.mfn 
+ 
+ Reading Grid to DHRU mapping...
+ Reading DHRU to Grid mapping...
+ Reading DHRU to HRU mapping...
+ Reading Subbasin to Grid mapping...
+ 
+ Reading MODFLOW Cells that provide Irrigation Water...
+
+================================================================================
+STDERR:
+forrtl: severe (24): end-of-file during read, unit 6006, file D:\GMRW_intraction\linkage\Constant\swatmf_irrigate.txt
+
+Image              PC        Routine            Line        Source             
+SWAT-MODFLOW3.exe  00E398CA  Unknown               Unknown  Unknown
+SWAT-MODFLOW3.exe  00DEA7FA  Unknown               Unknown  Unknown
+SWAT-MODFLOW3.exe  00DE99EB  Unknown               Unknown  Unknown
+SWAT-MODFLOW3.exe  00DC5E22  Unknown               Unknown  Unknown
+SWAT-MODFLOW3.exe  00CF95EF  Unknown               Unknown  Unknown
+SWAT-MODFLOW3.exe  00CEDAE1  Unknown               Unknown  Unknown
+SWAT-MODFLOW3.exe  00C8549B  Unknown               Unknown  Unknown
+SWAT-MODFLOW3.exe  00C2A05C  Unknown               Unknown  Unknown
+SWAT-MODFLOW3.exe  00E4C493  Unknown               Unknown  Unknown
+SWAT-MODFLOW3.exe  00E22F55  Unknown               Unknown  Unknown
+KERNEL32.DLL       76105D49  Unknown               Unknown  Unknown
+ntdll.dll          770FD6DB  Unknown               Unknown  Unknown
+ntdll.dll          770FD661  Unknown               Unknown  Unknown

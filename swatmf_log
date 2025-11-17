@@ -3,6 +3,8 @@
  swatmf_link.txt:    file flags have been read
  swatmf_link.txt:    MODFLOW is active
  swatmf_link.txt:    DRAIN cells are active
+ swatmf_link.txt:    RT3D (N,P) is active
+ swatmf_link.txt:    Observation cell file needed
  swatmf_link.txt:    output flags have been read
  swatmf_link.txt:    output control has been read
  
@@ -12,4 +14,5 @@
  swatmf_init: swatmf_dhru2hru.txt has been read
  swatmf_init: swatmf_river2grid.txt has been read
  swatmf_init: swatmf_drain2sub.txt has been read
+ swatmf_init: RT3D has been initialized
  swatmf_init: initialization finished

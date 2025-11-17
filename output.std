@@ -39,7 +39,7 @@ Annual Summary for Watershed in year    3 of simulation
 UNIT                                             PERCO           TILE                                                                            WATER   SED     NO3     NO3     NO3     NO3     NO3     NO3     N       P       P       P       P       P       NO3     P
 TIME     PREC    SURQ    LATQ    GWQ     SWGW    LATE    RECH    Q           DRN       SW            GW      GWSTOR  GWCON   GWET    ET      PET     YIELD   YIELD   SURQ    LATQ    GWQ     SWGW    PERC    CROP    ORGANIC SOLUBLE ORGANIC TILENO3 GWQ     SWGW    DRN     DRN
          (mm)    (mm)    (mm)    (mm)    (mm)    (mm)    (mm)    (mm)        (mm)      (mm)          (mm)    mm      mm      mm      (mm)    (mm)    (mm)    (mm)    ---------------------(kg nutrient/ha)--------------------------         ------------------------
- 2003 1301.31  226.14  205.85  552.62   62.75   50.92   48.31    0.00        1.98      174.62     6182.96 -239.76    0.00   10.19  746.31  985.50  924.07   19.98    2.07    1.57    0.00    0.00    0.56   86.38    3.83    0.03    0.60    0.00    0.00    0.00    0.00    0.00
+ 2003 1301.31  226.14  205.85  552.62   62.75   50.92   48.31    0.00        1.98      174.62     6182.96 -239.76    0.00   10.19  746.31  985.50  924.07   19.98    2.07    1.57   -0.72    2.32    0.56   86.38    3.83    0.03    0.60    0.00    0.01    0.14    0.00    0.00
 1
     SWAT Mar 17 2015    VER 2012/Rev 636_smrt                                       
 
@@ -51,7 +51,7 @@ Annual Summary for Watershed in year    4 of simulation
 UNIT                                             PERCO           TILE                                                                            WATER   SED     NO3     NO3     NO3     NO3     NO3     NO3     N       P       P       P       P       P       NO3     P
 TIME     PREC    SURQ    LATQ    GWQ     SWGW    LATE    RECH    Q           DRN       SW            GW      GWSTOR  GWCON   GWET    ET      PET     YIELD   YIELD   SURQ    LATQ    GWQ     SWGW    PERC    CROP    ORGANIC SOLUBLE ORGANIC TILENO3 GWQ     SWGW    DRN     DRN
          (mm)    (mm)    (mm)    (mm)    (mm)    (mm)    (mm)    (mm)        (mm)      (mm)          (mm)    mm      mm      mm      (mm)    (mm)    (mm)    (mm)    ---------------------(kg nutrient/ha)--------------------------         ------------------------
- 2004 1128.88  176.07  210.35  500.63   70.83   49.81   52.39    0.00        1.49      124.77     6221.78 -169.27    0.00   10.86  744.46  999.86  813.58   13.06    3.40    2.07    0.00    0.00    1.01   85.98    2.57    0.04    0.47    0.00    0.00    0.00    0.00    0.00
+ 2004 1128.88  176.07  210.35  500.63   70.83   49.81   52.39    0.00        1.49      124.77     6221.78 -169.27    0.00   10.86  744.46  999.86  813.58   13.06    3.40    2.07   -1.01    8.27    1.01   85.98    2.57    0.04    0.47    0.00    0.02    1.07    0.00    0.00
 1
     SWAT Mar 17 2015    VER 2012/Rev 636_smrt                                       
 
@@ -63,7 +63,7 @@ Annual Summary for Watershed in year    5 of simulation
 UNIT                                             PERCO           TILE                                                                            WATER   SED     NO3     NO3     NO3     NO3     NO3     NO3     N       P       P       P       P       P       NO3     P
 TIME     PREC    SURQ    LATQ    GWQ     SWGW    LATE    RECH    Q           DRN       SW            GW      GWSTOR  GWCON   GWET    ET      PET     YIELD   YIELD   SURQ    LATQ    GWQ     SWGW    PERC    CROP    ORGANIC SOLUBLE ORGANIC TILENO3 GWQ     SWGW    DRN     DRN
          (mm)    (mm)    (mm)    (mm)    (mm)    (mm)    (mm)    (mm)        (mm)      (mm)          (mm)    mm      mm      mm      (mm)    (mm)    (mm)    (mm)    ---------------------(kg nutrient/ha)--------------------------         ------------------------
- 2005 1157.96  221.12  204.14  461.57   84.81   48.30   48.32    0.00        1.18      117.56     6196.35 -112.90    0.00   12.73  707.81 1028.85  807.87   24.51    1.39    1.49    0.00    0.00    0.93   90.71    3.38    0.05    0.64    0.00    0.00    0.00    0.00    0.00
+ 2005 1157.96  221.12  204.14  461.57   84.81   48.30   48.32    0.00        1.18      117.56     6196.35 -112.90    0.00   12.73  707.81 1028.85  807.87   24.51    1.39    1.49   -0.57    6.02    0.93   90.71    3.38    0.05    0.64    0.00    0.14    5.64    0.00    0.00
 1
     SWAT Mar 17 2015    VER 2012/Rev 636_smrt                                       
 
@@ -75,7 +75,7 @@ Annual Summary for Watershed in year    6 of simulation
 UNIT                                             PERCO           TILE                                                                            WATER   SED     NO3     NO3     NO3     NO3     NO3     NO3     N       P       P       P       P       P       NO3     P
 TIME     PREC    SURQ    LATQ    GWQ     SWGW    LATE    RECH    Q           DRN       SW            GW      GWSTOR  GWCON   GWET    ET      PET     YIELD   YIELD   SURQ    LATQ    GWQ     SWGW    PERC    CROP    ORGANIC SOLUBLE ORGANIC TILENO3 GWQ     SWGW    DRN     DRN
          (mm)    (mm)    (mm)    (mm)    (mm)    (mm)    (mm)    (mm)        (mm)      (mm)          (mm)    mm      mm      mm      (mm)    (mm)    (mm)    (mm)    ---------------------(kg nutrient/ha)--------------------------         ------------------------
- 2006 1225.71  162.90  200.04  436.93   84.49   28.69   26.94    0.00        0.98      161.54     6164.21  -80.62    0.00    8.98  772.42 1012.29  712.64   11.35    2.08    2.02    0.00    0.00    0.84   95.40    2.31    0.05    0.46    0.00    0.00    0.00    0.00    0.00
+ 2006 1225.71  162.90  200.04  436.93   84.49   28.69   26.94    0.00        0.98      161.54     6164.21  -80.62    0.00    8.98  772.42 1012.29  712.64   11.35    2.08    2.02   -1.01    4.79    0.84   95.40    2.31    0.05    0.46    0.00    0.47   25.45    0.00    0.00
 1
     SWAT Mar 17 2015    VER 2012/Rev 636_smrt                                       
 
@@ -87,7 +87,7 @@ Annual Summary for Watershed in year    7 of simulation
 UNIT                                             PERCO           TILE                                                                            WATER   SED     NO3     NO3     NO3     NO3     NO3     NO3     N       P       P       P       P       P       NO3     P
 TIME     PREC    SURQ    LATQ    GWQ     SWGW    LATE    RECH    Q           DRN       SW            GW      GWSTOR  GWCON   GWET    ET      PET     YIELD   YIELD   SURQ    LATQ    GWQ     SWGW    PERC    CROP    ORGANIC SOLUBLE ORGANIC TILENO3 GWQ     SWGW    DRN     DRN
          (mm)    (mm)    (mm)    (mm)    (mm)    (mm)    (mm)    (mm)        (mm)      (mm)          (mm)    mm      mm      mm      (mm)    (mm)    (mm)    (mm)    ---------------------(kg nutrient/ha)--------------------------         ------------------------
- 2007 1171.41  244.98  210.85  426.87   97.35   57.69   59.61    0.00        0.85      127.76     6142.73  -61.47    0.00   14.51  690.90 1108.58  792.16   34.93    1.41    1.52    0.00    0.00    1.08   99.51    4.07    0.05    0.74    0.00    0.00    0.00    0.00    0.00
+ 2007 1171.41  244.98  210.85  426.87   97.35   57.69   59.61    0.00        0.85      127.76     6142.73  -61.47    0.00   14.51  690.90 1108.58  792.16   34.93    1.41    1.52   -0.65    6.01    1.08   99.51    4.07    0.05    0.74    0.00    4.13  259.06    0.00    0.00
 1
     SWAT Mar 17 2015    VER 2012/Rev 636_smrt                                       
 
@@ -99,7 +99,7 @@ Annual Summary for Watershed in year    8 of simulation
 UNIT                                             PERCO           TILE                                                                            WATER   SED     NO3     NO3     NO3     NO3     NO3     NO3     N       P       P       P       P       P       NO3     P
 TIME     PREC    SURQ    LATQ    GWQ     SWGW    LATE    RECH    Q           DRN       SW            GW      GWSTOR  GWCON   GWET    ET      PET     YIELD   YIELD   SURQ    LATQ    GWQ     SWGW    PERC    CROP    ORGANIC SOLUBLE ORGANIC TILENO3 GWQ     SWGW    DRN     DRN
          (mm)    (mm)    (mm)    (mm)    (mm)    (mm)    (mm)    (mm)        (mm)      (mm)          (mm)    mm      mm      mm      (mm)    (mm)    (mm)    (mm)    ---------------------(kg nutrient/ha)--------------------------         ------------------------
- 2008 1242.22  315.98  230.60  424.20  105.99   64.98   64.86    0.00        0.78       98.90     6119.79  -44.99    0.00   11.28  684.16 1036.25  865.38   68.23    2.67    2.07    0.00    0.00    2.11  103.60    5.74    0.09    1.33    0.00    0.00    0.00    0.00    0.00
+ 2008 1242.22  315.98  230.60  424.20  105.99   64.98   64.86    0.00        0.78       98.90     6119.79  -44.99    0.00   11.28  684.16 1036.25  865.38   68.23    2.67    2.07   -0.85    3.86    2.11  103.60    5.74    0.09    1.33    0.00   23.31  553.48    0.00    0.00
 1
     SWAT Mar 17 2015    VER 2012/Rev 636_smrt                                       
 
@@ -111,7 +111,7 @@ Annual Summary for Watershed in year    9 of simulation
 UNIT                                             PERCO           TILE                                                                            WATER   SED     NO3     NO3     NO3     NO3     NO3     NO3     N       P       P       P       P       P       NO3     P
 TIME     PREC    SURQ    LATQ    GWQ     SWGW    LATE    RECH    Q           DRN       SW            GW      GWSTOR  GWCON   GWET    ET      PET     YIELD   YIELD   SURQ    LATQ    GWQ     SWGW    PERC    CROP    ORGANIC SOLUBLE ORGANIC TILENO3 GWQ     SWGW    DRN     DRN
          (mm)    (mm)    (mm)    (mm)    (mm)    (mm)    (mm)    (mm)        (mm)      (mm)          (mm)    mm      mm      mm      (mm)    (mm)    (mm)    (mm)    ---------------------(kg nutrient/ha)--------------------------         ------------------------
- 2009 1017.62  117.53  149.79  418.98   88.05   10.10   10.18    0.00        0.71       85.51     6114.78  -51.58    0.00    7.88  742.08 1012.26  600.50    9.96    2.85    2.03    0.00    0.00    0.30  113.87    1.76    0.10    0.69    0.00    0.00    0.00    0.00    0.00
+ 2009 1017.62  117.53  149.79  418.98   88.05   10.10   10.18    0.00        0.71       85.51     6114.78  -51.58    0.00    7.88  742.08 1012.26  600.50    9.96    2.85    2.03   -1.67    5.38    0.30  113.87    1.76    0.10    0.69    0.00   64.57  677.78    0.00    0.00
 1
     SWAT Mar 17 2015    VER 2012/Rev 636_smrt                                       
 
@@ -123,7 +123,7 @@ Annual Summary for Watershed in year   10 of simulation
 UNIT                                             PERCO           TILE                                                                            WATER   SED     NO3     NO3     NO3     NO3     NO3     NO3     N       P       P       P       P       P       NO3     P
 TIME     PREC    SURQ    LATQ    GWQ     SWGW    LATE    RECH    Q           DRN       SW            GW      GWSTOR  GWCON   GWET    ET      PET     YIELD   YIELD   SURQ    LATQ    GWQ     SWGW    PERC    CROP    ORGANIC SOLUBLE ORGANIC TILENO3 GWQ     SWGW    DRN     DRN
          (mm)    (mm)    (mm)    (mm)    (mm)    (mm)    (mm)    (mm)        (mm)      (mm)          (mm)    mm      mm      mm      (mm)    (mm)    (mm)    (mm)    ---------------------(kg nutrient/ha)--------------------------         ------------------------
- 2010  975.61  126.20  147.24  407.26   92.30   11.17   10.46    0.00        0.66       99.57     6126.28  -36.03    0.00   10.87  692.94 1078.10  586.35   12.73    4.59    3.50    0.00    0.00    0.38  160.43    2.49    0.06    0.56    0.00    0.00    0.00    0.00    0.00
+ 2010  975.61  126.20  147.24  407.26   92.30   11.17   10.46    0.00        0.66       99.57     6126.28  -36.03    0.00   10.87  692.94 1078.10  586.35   12.73    4.59    3.50   -2.36    9.25    0.38  160.43    2.49    0.06    0.56    0.00  130.9310797.78    0.00    0.00
 1
     SWAT Mar 17 2015    VER 2012/Rev 636_smrt                                       
 
@@ -135,7 +135,7 @@ Annual Summary for Watershed in year   11 of simulation
 UNIT                                             PERCO           TILE                                                                            WATER   SED     NO3     NO3     NO3     NO3     NO3     NO3     N       P       P       P       P       P       NO3     P
 TIME     PREC    SURQ    LATQ    GWQ     SWGW    LATE    RECH    Q           DRN       SW            GW      GWSTOR  GWCON   GWET    ET      PET     YIELD   YIELD   SURQ    LATQ    GWQ     SWGW    PERC    CROP    ORGANIC SOLUBLE ORGANIC TILENO3 GWQ     SWGW    DRN     DRN
          (mm)    (mm)    (mm)    (mm)    (mm)    (mm)    (mm)    (mm)        (mm)      (mm)          (mm)    mm      mm      mm      (mm)    (mm)    (mm)    (mm)    ---------------------(kg nutrient/ha)--------------------------         ------------------------
- 2011 1545.63  334.38  247.33  393.29  117.81   63.61   64.01    0.00        0.63      166.54     6035.76    3.79    0.00    8.36  770.09 1043.77  863.69   56.04    4.26    4.42    0.00    0.00    4.91  162.57    5.66    0.18    1.34    0.00    0.00    0.00    0.00    0.00
+ 2011 1545.63  334.38  247.33  393.29  117.81   63.61   64.01    0.00        0.63      166.54     6035.76    3.79    0.00    8.36  770.09 1043.77  863.69   56.04    4.26    4.42   -2.14    8.36    4.91  162.57    5.66    0.18    1.34    0.00  539.4915707.22    0.00    0.00
 1
     SWAT Mar 17 2015    VER 2012/Rev 636_smrt                                       
 
@@ -147,7 +147,7 @@ Annual Summary for Watershed in year   12 of simulation
 UNIT                                             PERCO           TILE                                                                            WATER   SED     NO3     NO3     NO3     NO3     NO3     NO3     N       P       P       P       P       P       NO3     P
 TIME     PREC    SURQ    LATQ    GWQ     SWGW    LATE    RECH    Q           DRN       SW            GW      GWSTOR  GWCON   GWET    ET      PET     YIELD   YIELD   SURQ    LATQ    GWQ     SWGW    PERC    CROP    ORGANIC SOLUBLE ORGANIC TILENO3 GWQ     SWGW    DRN     DRN
          (mm)    (mm)    (mm)    (mm)    (mm)    (mm)    (mm)    (mm)        (mm)      (mm)          (mm)    mm      mm      mm      (mm)    (mm)    (mm)    (mm)    ---------------------(kg nutrient/ha)--------------------------         ------------------------
- 2012  918.36  129.64  195.79  414.35   94.13   24.74   25.11    0.00        0.60       82.52     6099.76  -43.85    0.00   12.23  703.07 1142.47  647.43   13.40    3.67    3.02    0.00    0.00    0.95  161.28    2.42    0.06    0.50    0.00    0.00    0.00    0.00    0.00
+ 2012  918.36  129.64  195.79  414.35   94.13   24.74   25.11    0.00        0.60       82.52     6099.76  -43.85    0.00   12.23  703.07 1142.47  647.43   13.40    3.67    3.02   -2.13    7.22    0.95  161.28    2.42    0.06    0.50    0.00  484.35********    0.00    0.00
 1
     SWAT Mar 17 2015    VER 2012/Rev 636_smrt                                       
 
@@ -159,7 +159,7 @@ Annual Summary for Watershed in year   13 of simulation
 UNIT                                             PERCO           TILE                                                                            WATER   SED     NO3     NO3     NO3     NO3     NO3     NO3     N       P       P       P       P       P       NO3     P
 TIME     PREC    SURQ    LATQ    GWQ     SWGW    LATE    RECH    Q           DRN       SW            GW      GWSTOR  GWCON   GWET    ET      PET     YIELD   YIELD   SURQ    LATQ    GWQ     SWGW    PERC    CROP    ORGANIC SOLUBLE ORGANIC TILENO3 GWQ     SWGW    DRN     DRN
          (mm)    (mm)    (mm)    (mm)    (mm)    (mm)    (mm)    (mm)        (mm)      (mm)          (mm)    mm      mm      mm      (mm)    (mm)    (mm)    (mm)    ---------------------(kg nutrient/ha)--------------------------         ------------------------
- 2013 1083.85  133.10  147.40  397.31   96.17   12.39   12.35    0.00        0.57      120.62     6058.75  -17.45    0.00    7.77  758.71 1017.78  582.17   17.47    3.04    2.88    0.00    0.00    0.39  161.87    3.74    0.04    0.76    0.00    0.00    0.00    0.00    0.00
+ 2013 1083.85  133.10  147.40  397.31   96.17   12.39   12.35    0.00        0.57      120.62     6058.75  -17.45    0.00    7.77  758.71 1017.78  582.17   17.47    3.04    2.88   -1.87    4.35    0.39  161.87    3.74    0.04    0.76    0.0023988.41********    0.00    0.00
 1
     SWAT Mar 17 2015    VER 2012/Rev 636_smrt                                       
 
@@ -171,7 +171,7 @@ Annual Summary for Watershed in year   14 of simulation
 UNIT                                             PERCO           TILE                                                                            WATER   SED     NO3     NO3     NO3     NO3     NO3     NO3     N       P       P       P       P       P       NO3     P
 TIME     PREC    SURQ    LATQ    GWQ     SWGW    LATE    RECH    Q           DRN       SW            GW      GWSTOR  GWCON   GWET    ET      PET     YIELD   YIELD   SURQ    LATQ    GWQ     SWGW    PERC    CROP    ORGANIC SOLUBLE ORGANIC TILENO3 GWQ     SWGW    DRN     DRN
          (mm)    (mm)    (mm)    (mm)    (mm)    (mm)    (mm)    (mm)        (mm)      (mm)          (mm)    mm      mm      mm      (mm)    (mm)    (mm)    (mm)    ---------------------(kg nutrient/ha)--------------------------         ------------------------
- 2014 1049.26  184.39  156.72  400.29  101.24   19.90   19.94    0.00        0.56       81.30     6074.72  -17.25    0.00    8.06  746.65 1013.06  641.80   34.68    4.30    3.19    0.00    0.00    0.76  164.82    3.29    0.08    0.68    0.00    0.00    0.00    0.00    0.00
+ 2014 1049.26  184.39  156.72  400.29  101.24   19.90   19.94    0.00        0.56       81.30     6074.72  -17.25    0.00    8.06  746.65 1013.06  641.80   34.68    4.30    3.19   -3.33   23.85    0.76  164.82    3.29    0.08    0.68    0.00****************    0.00    0.01
 1
     SWAT Mar 17 2015    VER 2012/Rev 636_smrt                                       
 
@@ -183,7 +183,7 @@ Annual Summary for Watershed in year   15 of simulation
 UNIT                                             PERCO           TILE                                                                            WATER   SED     NO3     NO3     NO3     NO3     NO3     NO3     N       P       P       P       P       P       NO3     P
 TIME     PREC    SURQ    LATQ    GWQ     SWGW    LATE    RECH    Q           DRN       SW            GW      GWSTOR  GWCON   GWET    ET      PET     YIELD   YIELD   SURQ    LATQ    GWQ     SWGW    PERC    CROP    ORGANIC SOLUBLE ORGANIC TILENO3 GWQ     SWGW    DRN     DRN
          (mm)    (mm)    (mm)    (mm)    (mm)    (mm)    (mm)    (mm)        (mm)      (mm)          (mm)    mm      mm      mm      (mm)    (mm)    (mm)    (mm)    ---------------------(kg nutrient/ha)--------------------------         ------------------------
- 2015 1212.83  185.92  157.98  393.33  103.05   21.71   21.41    0.00        0.54      117.69     6027.53   -7.30    0.00    8.35  774.37 1041.43  632.93   31.04    4.40    4.23    0.00    0.00    1.39  166.66    3.17    0.06    0.67    0.00    0.00    0.00    0.00    0.00
+ 2015 1212.83  185.92  157.98  393.33  103.05   21.71   21.41    0.00        0.54      117.69     6027.53   -7.30    0.00    8.35  774.37 1041.43  632.93   31.04    4.40    4.23   -2.50    6.44    1.39  166.66    3.17    0.06    0.67    0.00****************    0.00    0.03
 1
     SWAT Mar 17 2015    VER 2012/Rev 636_smrt                                       
 
@@ -195,7 +195,7 @@ Annual Summary for Watershed in year   16 of simulation
 UNIT                                             PERCO           TILE                                                                            WATER   SED     NO3     NO3     NO3     NO3     NO3     NO3     N       P       P       P       P       P       NO3     P
 TIME     PREC    SURQ    LATQ    GWQ     SWGW    LATE    RECH    Q           DRN       SW            GW      GWSTOR  GWCON   GWET    ET      PET     YIELD   YIELD   SURQ    LATQ    GWQ     SWGW    PERC    CROP    ORGANIC SOLUBLE ORGANIC TILENO3 GWQ     SWGW    DRN     DRN
          (mm)    (mm)    (mm)    (mm)    (mm)    (mm)    (mm)    (mm)        (mm)      (mm)          (mm)    mm      mm      mm      (mm)    (mm)    (mm)    (mm)    ---------------------(kg nutrient/ha)--------------------------         ------------------------
- 2016 1043.77  150.25  186.03  397.66  100.28   21.67   21.87    0.00        0.53       81.10     6062.96  -15.61    0.00    9.30  753.64 1076.98  637.49   17.30    4.03    4.31    0.00    0.00    2.38  168.69    3.09    0.09    0.68    0.00    0.00    0.00    0.00    0.00
+ 2016 1043.77  150.25  186.03  397.66  100.28   21.67   21.87    0.00        0.53       81.10     6062.96  -15.61    0.00    9.30  753.64 1076.98  637.49   17.30    4.03    4.31   -2.47   10.01    2.38  168.69    3.09    0.09    0.68    0.00****************    0.00    0.06
 1
     SWAT Mar 17 2015    VER 2012/Rev 636_smrt                                       
 
@@ -207,7 +207,7 @@ Annual Summary for Watershed in year   17 of simulation
 UNIT                                             PERCO           TILE                                                                            WATER   SED     NO3     NO3     NO3     NO3     NO3     NO3     N       P       P       P       P       P       NO3     P
 TIME     PREC    SURQ    LATQ    GWQ     SWGW    LATE    RECH    Q           DRN       SW            GW      GWSTOR  GWCON   GWET    ET      PET     YIELD   YIELD   SURQ    LATQ    GWQ     SWGW    PERC    CROP    ORGANIC SOLUBLE ORGANIC TILENO3 GWQ     SWGW    DRN     DRN
          (mm)    (mm)    (mm)    (mm)    (mm)    (mm)    (mm)    (mm)        (mm)      (mm)          (mm)    mm      mm      mm      (mm)    (mm)    (mm)    (mm)    ---------------------(kg nutrient/ha)--------------------------         ------------------------
- 2017 1298.01  201.21  201.89  389.27  107.33   22.82   22.91    0.00        0.52      116.10     6026.82   -0.21    0.00    7.72  816.08 1066.28  687.05   28.75    3.94    3.95    0.00    0.00    2.15  168.24    4.60    0.10    0.96    0.00    0.00    0.00    0.00    0.00
+ 2017 1298.01  201.21  201.89  389.27  107.33   22.82   22.91    0.00        0.52      116.10     6026.82   -0.21    0.00    7.72  816.08 1066.28  687.05   28.75    3.94    3.95   -2.03    5.03    2.15  168.24    4.60    0.10    0.96    0.00****************    0.00    0.13
 1
     SWAT Mar 17 2015    VER 2012/Rev 636_smrt                                       
 
@@ -219,7 +219,7 @@ Annual Summary for Watershed in year   18 of simulation
 UNIT                                             PERCO           TILE                                                                            WATER   SED     NO3     NO3     NO3     NO3     NO3     NO3     N       P       P       P       P       P       NO3     P
 TIME     PREC    SURQ    LATQ    GWQ     SWGW    LATE    RECH    Q           DRN       SW            GW      GWSTOR  GWCON   GWET    ET      PET     YIELD   YIELD   SURQ    LATQ    GWQ     SWGW    PERC    CROP    ORGANIC SOLUBLE ORGANIC TILENO3 GWQ     SWGW    DRN     DRN
          (mm)    (mm)    (mm)    (mm)    (mm)    (mm)    (mm)    (mm)        (mm)      (mm)          (mm)    mm      mm      mm      (mm)    (mm)    (mm)    (mm)    ---------------------(kg nutrient/ha)--------------------------         ------------------------
- 2018 1346.02  241.10  219.23  392.18  109.79   60.44   57.08    0.00        0.51      170.83     6010.19    0.23    0.00    8.03  747.84 1028.91  738.84   39.77    4.45    4.45    0.00    0.00    4.09  173.53    4.76    0.14    1.12    0.00    0.00    0.00    0.00    0.00
+ 2018 1346.02  241.10  219.23  392.18  109.79   60.44   57.08    0.00        0.51      170.83     6010.19    0.23    0.00    8.03  747.84 1028.91  738.84   39.77    4.45    4.45   -2.40    8.04    4.09  173.53    4.76    0.14    1.12    0.00****************    0.00    0.30
 1
     SWAT Mar 17 2015    VER 2012/Rev 636_smrt                                       
 
@@ -231,7 +231,7 @@ Annual Summary for Watershed in year   19 of simulation
 UNIT                                             PERCO           TILE                                                                            WATER   SED     NO3     NO3     NO3     NO3     NO3     NO3     N       P       P       P       P       P       NO3     P
 TIME     PREC    SURQ    LATQ    GWQ     SWGW    LATE    RECH    Q           DRN       SW            GW      GWSTOR  GWCON   GWET    ET      PET     YIELD   YIELD   SURQ    LATQ    GWQ     SWGW    PERC    CROP    ORGANIC SOLUBLE ORGANIC TILENO3 GWQ     SWGW    DRN     DRN
          (mm)    (mm)    (mm)    (mm)    (mm)    (mm)    (mm)    (mm)        (mm)      (mm)          (mm)    mm      mm      mm      (mm)    (mm)    (mm)    (mm)    ---------------------(kg nutrient/ha)--------------------------         ------------------------
- 2019 1179.51  255.98  224.03  399.08  110.08   66.79   69.87    0.00        0.51       79.60     6047.80   -9.47    0.00    9.84  762.40 1066.19  775.61   29.87    4.51    5.19    0.00    0.00    4.02  171.51    6.01    0.09    1.25    0.00    0.00    0.00    0.00    0.00
+ 2019 1179.51  255.98  224.03  399.08  110.08   66.79   69.87    0.00        0.51       79.60     6047.80   -9.47    0.00    9.84  762.40 1066.19  775.61   29.87    4.51    5.19   -3.29   19.64    4.02  171.51    6.01    0.09    1.25    0.00****************    0.00    0.78
 1
     SWAT Mar 17 2015    VER 2012/Rev 636_smrt                                       
 
@@ -243,7 +243,7 @@ Annual Summary for Watershed in year   20 of simulation
 UNIT                                             PERCO           TILE                                                                            WATER   SED     NO3     NO3     NO3     NO3     NO3     NO3     N       P       P       P       P       P       NO3     P
 TIME     PREC    SURQ    LATQ    GWQ     SWGW    LATE    RECH    Q           DRN       SW            GW      GWSTOR  GWCON   GWET    ET      PET     YIELD   YIELD   SURQ    LATQ    GWQ     SWGW    PERC    CROP    ORGANIC SOLUBLE ORGANIC TILENO3 GWQ     SWGW    DRN     DRN
          (mm)    (mm)    (mm)    (mm)    (mm)    (mm)    (mm)    (mm)        (mm)      (mm)          (mm)    mm      mm      mm      (mm)    (mm)    (mm)    (mm)    ---------------------(kg nutrient/ha)--------------------------         ------------------------
- 2020 1200.02  174.92  211.16  391.94  105.44   31.30   31.52    0.00        0.50      101.50     6035.62   -4.80    0.00    9.21  743.08 1067.54  677.29   14.46    2.25    5.16    0.00    0.00    6.17  178.74    3.45    0.16    0.94    0.00    0.00    0.00    0.00    0.00
+ 2020 1200.02  174.92  211.16  391.94  105.44   31.30   31.52    0.00        0.50      101.50     6035.62   -4.80    0.00    9.21  743.08 1067.54  677.29   14.46    2.25    5.16   -1.96   11.74    6.17  178.74    3.45    0.16    0.94    0.00****************    0.00    3.85
 1
     SWAT Mar 17 2015    VER 2012/Rev 636_smrt                                       
 
@@ -255,7 +255,7 @@ Annual Summary for Watershed in year   21 of simulation
 UNIT                                             PERCO           TILE                                                                            WATER   SED     NO3     NO3     NO3     NO3     NO3     NO3     N       P       P       P       P       P       NO3     P
 TIME     PREC    SURQ    LATQ    GWQ     SWGW    LATE    RECH    Q           DRN       SW            GW      GWSTOR  GWCON   GWET    ET      PET     YIELD   YIELD   SURQ    LATQ    GWQ     SWGW    PERC    CROP    ORGANIC SOLUBLE ORGANIC TILENO3 GWQ     SWGW    DRN     DRN
          (mm)    (mm)    (mm)    (mm)    (mm)    (mm)    (mm)    (mm)        (mm)      (mm)          (mm)    mm      mm      mm      (mm)    (mm)    (mm)    (mm)    ---------------------(kg nutrient/ha)--------------------------         ------------------------
- 2021 1167.08  156.45  170.37  390.12  101.27   14.63   14.20    0.00        0.49      149.22     6011.01   -5.55    0.00    8.36  771.89 1063.98  616.75   17.24    6.13    3.72    0.00    0.00    0.29  190.60    3.21    0.07    0.69    0.00    0.00    0.00    0.00    0.00
+ 2021 1167.08  156.45  170.37  390.12  101.27   14.63   14.20    0.00        0.49      149.22     6011.01   -5.55    0.00    8.36  771.89 1063.98  616.75   17.24    6.13    3.72   -2.51   10.05    0.29  190.60    3.21    0.07    0.69    0.00****************    0.00   18.05
 1
     SWAT Mar 17 2015    VER 2012/Rev 636_smrt                                       
 
@@ -267,7 +267,7 @@ Annual Summary for Watershed in year   22 of simulation
 UNIT                                             PERCO           TILE                                                                            WATER   SED     NO3     NO3     NO3     NO3     NO3     NO3     N       P       P       P       P       P       NO3     P
 TIME     PREC    SURQ    LATQ    GWQ     SWGW    LATE    RECH    Q           DRN       SW            GW      GWSTOR  GWCON   GWET    ET      PET     YIELD   YIELD   SURQ    LATQ    GWQ     SWGW    PERC    CROP    ORGANIC SOLUBLE ORGANIC TILENO3 GWQ     SWGW    DRN     DRN
          (mm)    (mm)    (mm)    (mm)    (mm)    (mm)    (mm)    (mm)        (mm)      (mm)          (mm)    mm      mm      mm      (mm)    (mm)    (mm)    (mm)    ---------------------(kg nutrient/ha)--------------------------         ------------------------
- 2022 1086.88  206.73  199.37  396.18  105.17   42.83   43.10    0.00        0.49       61.13     6064.52   -9.90    0.00    9.24  761.19 1068.57  694.80   26.55    4.93    4.28    0.00    0.00    2.36  193.42    4.23    0.10    0.94    0.00    0.00    0.00    0.00    0.00
+ 2022 1086.88  206.73  199.37  396.18  105.17   42.83   43.10    0.00        0.49       61.13     6064.52   -9.90    0.00    9.24  761.19 1068.57  694.80   26.55    4.93    4.28   -2.84    4.90    2.36  193.42    4.23    0.10    0.94    0.00****************    0.00  113.93
 1
     SWAT Mar 17 2015    VER 2012/Rev 636_smrt                                       
 
@@ -279,7 +279,7 @@ Annual Summary for Watershed in year   23 of simulation
 UNIT                                             PERCO           TILE                                                                            WATER   SED     NO3     NO3     NO3     NO3     NO3     NO3     N       P       P       P       P       P       NO3     P
 TIME     PREC    SURQ    LATQ    GWQ     SWGW    LATE    RECH    Q           DRN       SW            GW      GWSTOR  GWCON   GWET    ET      PET     YIELD   YIELD   SURQ    LATQ    GWQ     SWGW    PERC    CROP    ORGANIC SOLUBLE ORGANIC TILENO3 GWQ     SWGW    DRN     DRN
          (mm)    (mm)    (mm)    (mm)    (mm)    (mm)    (mm)    (mm)        (mm)      (mm)          (mm)    mm      mm      mm      (mm)    (mm)    (mm)    (mm)    ---------------------(kg nutrient/ha)--------------------------         ------------------------
- 2023  437.38   96.30   73.50  121.41   40.53    7.53    7.75    0.00        0.16      148.25     6013.82   13.46    0.00    2.13  127.66  228.99  255.90   13.08    0.67    1.28    0.00    0.00    0.34    0.00    2.21    0.07    0.55    0.00    0.00    0.00    0.00    0.00
+ 2023  437.38   96.30   73.50  121.41   40.53    7.53    7.75    0.00        0.16      148.25     6013.82   13.46    0.00    2.13  127.66  228.99  255.90   13.08    0.67    1.28   -0.40    2.00    0.34    0.00    2.21    0.07    0.55    0.00****************    0.00  108.49
 1
     SWAT Mar 17 2015    VER 2012/Rev 636_smrt                                       
 
@@ -664,12 +664,12 @@ TIME     PREC    SURQ    LATQ    GWQ     SWGW    LATE    RECH    Q           DRN
                    P LEACHED =     0.014 (KG/HA)
                    N UPTAKE =   142.527 (KG/HA)
                    P UPTAKE =   37.636 (KG/HA)
-                   NO3 LOAD GW (RT3D) =     0.000 (KG/HA)
-                   NO3 SW-GW (RT3D) =     0.000 (KG/HA)
+                   NO3 LOAD GW (RT3D) =    -1.903 (KG/HA)
+                   NO3 SW-GW (RT3D) =     8.241 (KG/HA)
                    NO3 LOAD DRAIN (RT3D) =     0.000 (KG/HA)
-                   P LOAD GW (RT3D) =     0.000 (KG/HA)
-                   P SW-GW (RT3D) =     0.000 (KG/HA)
-                   P LOAD DRAIN (RT3D) =     0.000 (KG/HA)
+                   P LOAD GW (RT3D) =  ******** (KG/HA)
+                   P SW-GW (RT3D) =  ******** (KG/HA)
+                   P LOAD DRAIN (RT3D) =    12.081 (KG/HA)
 
                    ACTIVE TO SOLUTION P FLOW =       -21.857 (KG/HA)
                    ACTIVE TO STABLE P FLOW =       -20.112 (KG/HA)
